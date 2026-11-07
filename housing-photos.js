@@ -506,5 +506,12 @@ window.HOUSING_PHOTOS={
   "L2|Park View on Cole": {
     "note": "No safely reusable verified photo. Open the source listing.",
     "checked": "2026-11-07"
+  },
+  "L2|Delante Apartments": {
+    "gallery": "https://www.delanteapartments.com/photogallery",
+    "linkType": "gallery",
+    "credit": "Delante Apartments",
+    "note": "Official photo gallery (28 photos). Individual image files were not available to review, so none is embedded.",
+    "checked": "2026-11-07"
   }
 };
