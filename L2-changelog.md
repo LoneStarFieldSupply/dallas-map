@@ -1,5 +1,24 @@
 # L2 listings changelog
 
+## 2026-11-07 (America/Chicago) — Delante, Las Colinas
+
+### Added (1)
+1. **Delante Apartments** — 1001 Lake Carolyn Pkwy, Irving 75039
+   - Official floor plans checked Nov 7 2026 (current quote, not a January 2027 guarantee): B6 #505, 1,273 sf, 2/2, $1,810–$1,865 base; L1 #209, 1,322 sf, $1,840; L1 #211, 1,322 sf, $1,920–$1,975 with hardwood. Reserve is shown. Move-in month is not listed.
+   - Recurring mandatory non-pet fees are not stated on the official floor-plan or amenities pages. Confirm before leasing. No discount was applied.
+   - B6 and L1 text: 2BR/2BA with den, granite counters, stainless appliances. L1 lists a full-size washer/dryer connection; machines are not listed as included. 10-ft ceilings and other finishes are on the amenities list and vary by plan.
+   - Amenities page: attached parking garage (community amenity; pricing via leasing), health club, pool, sunken spa, elevators, Zen garden, concierge package lockers. Property claim, not a routed walk: 1 block to DART light rail; 2 blocks from Williams Square and the Urban Center.
+   - Dogs on the amenities page: up to 2, 25 lb each, breed restrictions, $30/mo per pet, $450 one-time, $150 deposit. Assistance-animal accommodations are handled separately.
+   - Pin: OpenStreetMap building “BridgeStreet at Delante,” house number 1001 (32.8714612, -96.9339302). The HAR point 32.8671, -96.9319 reverse-geocodes to 866 Lake Carolyn Pkwy, about 0.32 mi away, so it was not used.
+   - Photo: official gallery is linked. Image files were not available to review, so none is embedded. No MLS or aggregator image.
+   - Straight-line to Tower 909 is about 0.18 mi. Drive time was not routed.
+   - Sources: [official site](https://www.delanteapartments.com/), [B6](https://www.delanteapartments.com/floorplans/b6), [L1](https://www.delanteapartments.com/floorplans/l1), [amenities](https://www.delanteapartments.com/amenities), [gallery](https://www.delanteapartments.com/photogallery), [HAR](https://www.har.com/delante/apartment_9888A). Apartments.com rents were not used.
+
+### Reviewed / not added
+- Olympus — fees too tight for this pass.
+- Palmer — quality screen not passed.
+- St Marin — no current official price.
+
 ## 2026-11-07 (America/Chicago)
 
 ### Added (2)
