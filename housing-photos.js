@@ -1,0 +1,461 @@
+/* Housing card photos.
+   Daily additions: add or edit one key, "layer|exact card name".
+   Layers: budget, APT, TH, L2, grapevine, THG.
+   src    Public image URL from that property's own site. Omit when none is safely usable.
+   alt    Required when src is set.
+   kind   community | model | exterior | unit
+   caption Shown under the photo. Say when it is not the exact unit.
+   gallery Full listing or gallery URL. Falls back to the card's existing link.
+   credit  Property or site credited for the photo.
+   note    Why a card has a link instead of a photo.
+   checked Date the photo or link was last checked (YYYY-MM-DD).
+   Do not paste stock, generated, neighboring, or MLS images.
+*/
+window.HOUSING_PHOTOS={
+  "L2|Maple District Lofts": {
+    "src": "https://mapledistrictdallas.com/assets/images/cache/rotator_3_maple_district_2459-4b9beb387618f36334dd653c4f767256.jpg",
+    "alt": "Maple District Lofts community pool and apartment buildings",
+    "kind": "community",
+    "caption": "Community photo, not a specific unit",
+    "gallery": "https://mapledistrictdallas.com/",
+    "credit": "Maple District Lofts",
+    "checked": "2026-11-07"
+  },
+  "L2|The Griffin": {
+    "src": "https://lh3.googleusercontent.com/AHnc-xiJ3KdzdMjcmwZvTjlmI7jzWNFLXVrb-jhlRXDRGvbOpPAJbahoUoHQD-XDv22pRFUZixsyDLk3hB8DDhatB5oBxZfl35mP3Q=w900",
+    "alt": "The Griffin courtyard pool and brick loft buildings",
+    "kind": "community",
+    "caption": "Community photo, not a specific unit",
+    "gallery": "https://www.thegriffindallas.com/",
+    "credit": "The Griffin",
+    "checked": "2026-11-07"
+  },
+  "L2|Link at Plano": {
+    "src": "https://linkatplano.com/assets/images/cache/ZgAhY9JxU1IANHama2bkiXGhd0XTqVC8lhedJ69v-c880fb1ff166873f62c2ce9cd44d661f.jpg",
+    "alt": "Link at Plano model kitchen with herringbone-style flooring",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://linkatplano.com/gallery/",
+    "credit": "Link at Plano",
+    "checked": "2026-11-07"
+  },
+  "L2|Flatiron District at Austin Ranch": {
+    "src": "https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_420,w_740/v1740690816/g5/g5-c-inrtkls3-lincoln-property-company/g5-cl-1om0s6v4ea-lincoln-property-company-lpc-resident-services-the-colony-tx/uploads/shoootin-photo-8_fkd5aq.jpg",
+    "alt": "Flatiron District at Austin Ranch model kitchen and living area",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.flatirondistrictataustinranch.com/apartments/tx/the-colony/photo-gallery",
+    "credit": "Flatiron District at Austin Ranch",
+    "checked": "2026-11-07"
+  },
+  "L2|2403 N Washington #337": {
+    "src": "https://broadstoneparagon.com/assets/images/cache/broadstone-exterior1-d14c2bcd9ce6f653a0626b4769afe579.jpg",
+    "alt": "Broadstone Paragon exterior sign and building at 2403 N Washington",
+    "kind": "exterior",
+    "caption": "Community exterior of Broadstone Paragon. Not unit 337",
+    "gallery": "https://broadstoneparagon.com/gallery/",
+    "credit": "Broadstone Paragon",
+    "checked": "2026-11-07"
+  },
+  "L2|4539 Cedar Springs": {
+    "gallery": "https://www.rentable.co/dallas-tx/4539-cedar-springs-rd",
+    "note": "No safely reusable photo. The mapped source is an aggregator listing, not an official gallery.",
+    "checked": "2026-11-07"
+  },
+  "L2|Legacy North": {
+    "src": "https://images.myrazz.com/uc-image/cc6223ef-8b05-4a99-b5ed-d55234935b59/-/format/webp/-/quality/lighter/-/resize/x800/-/scale_crop/640x400/center/legacy_north_-_aurora_-_kitchen.webp",
+    "alt": "Model kitchen at Legacy North in Plano",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.legacynorthapts.com/",
+    "credit": "Legacy North",
+    "checked": "2026-11-07"
+  },
+  "L2|MAA Legacy": {
+    "src": "https://edge.sitecorecloud.io/midamericaa7861-test603e-prod9e24-2f78/media/project/maac/maac_com/texas/dallas/properties/maa-legacy/property-hero/245700---maa-legacy---kitchen-1-main.jpg?h=600&iar=0&w=960&q=70",
+    "alt": "Model kitchen at MAA Legacy",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.maac.com/texas/dallas/maa-legacy/",
+    "credit": "MAA Legacy",
+    "checked": "2026-11-07"
+  },
+  "L2|Windsor Metro West (borderline)": {
+    "src": "https://cdn.rentcafe.com/dmslivecafe/2/70135/2ModelHomes_P1_MetroWest.jpg",
+    "alt": "Model kitchen at Windsor Metro West",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.windsorcommunities.com/properties/windsor-metro-west/",
+    "credit": "Windsor Metro West",
+    "checked": "2026-11-07"
+  },
+  "L2|Cortland One Twenty One": {
+    "src": "https://d1lmwj1mqgoj6.cloudfront.net/misc/55039136dccb99ee.jpg",
+    "alt": "Model kitchen at Cortland One Twenty One",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://apartments.cortland.com/cortland-one-twenty-one",
+    "credit": "Cortland One Twenty One",
+    "checked": "2026-11-07"
+  },
+  "L2|Cityplace Heights": {
+    "src": "https://media.multihub.io/cdn-cgi/image/format=auto,w=640/property/5638549609119744/01a16c50-69e0-740c-a3f3-4606922b7368.webp",
+    "alt": "Model kitchen at Cityplace Heights",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.cityplaceheights.com/gallery/",
+    "credit": "Cityplace Heights",
+    "checked": "2026-11-07"
+  },
+  "budget|Cityplace Heights": {
+    "src": "https://media.multihub.io/cdn-cgi/image/format=auto,w=640/property/5638549609119744/01a16c50-69e0-740c-a3f3-4606922b7368.webp",
+    "alt": "Model kitchen at Cityplace Heights",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.cityplaceheights.com/gallery/",
+    "credit": "Cityplace Heights",
+    "checked": "2026-11-07"
+  },
+  "L2|Macallan on Ross": {
+    "src": "https://media.multihub.io/cdn-cgi/image/format=auto,w=640/property/5646289643503616/019e89a1-0eb3-70d7-8869-4f6a59c36e2a.webp",
+    "alt": "Model kitchen at Macallan on Ross",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.macallanonross.com/",
+    "credit": "Macallan on Ross",
+    "checked": "2026-11-07"
+  },
+  "L2|ICON at Ross": {
+    "src": "https://www.simpsonpropertygroup.com/Uploads2/CommunitySliderImagesV2_resized/ICON_ModelKitchen_01_HIGH_2025.jpg",
+    "alt": "Model kitchen at ICON at Ross",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.simpsonpropertygroup.com/apartments/dallas-texas/icon-at-ross-dallas/",
+    "credit": "ICON at Ross",
+    "checked": "2026-11-07"
+  },
+  "L2|Manchester State Thomas": {
+    "src": "https://manchesterstatethomas.com/assets/images/cache/rotator_1_manchester_state_1737-35c99a7fd52529cf00ea7c7b16dbe5ce.jpg",
+    "alt": "Staged living room published by Manchester State Thomas",
+    "kind": "model",
+    "caption": "Staged marketing interior, not a specific available unit",
+    "gallery": "https://manchesterstatethomas.com/",
+    "credit": "Manchester State Thomas",
+    "checked": "2026-11-07"
+  },
+  "L2|Magnolia Station Lofts II": {
+    "src": "https://magnoliastationdallas.com/wp-content/uploads/sites/3/2022/06/MagnoliaStation_Modern-Spirit-6_900x600.jpg",
+    "alt": "Model living room and kitchen at Magnolia Station, 1607 Lyte Street",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://magnoliastationdallas.com/",
+    "credit": "Magnolia Station",
+    "checked": "2026-11-07"
+  },
+  "L2|Boat House (lakefront)": {
+    "gallery": "https://www.boathouseapts.com/",
+    "note": "Official site is linked. Its public gallery did not expose a verifiable property photo.",
+    "checked": "2026-11-07"
+  },
+  "L2|Arcadian in Victory Park": {
+    "gallery": "https://www.thearcadianapartments.com/the-arcadian-dallas-tx",
+    "note": "Official site is linked. No verifiable property photo was available without a blocked page.",
+    "checked": "2026-11-07"
+  },
+  "APT|Park West": {
+    "src": "https://parkwestoaklawn.com/assets/images/cache/E13SHhgg1j8BqY8uDB6cbpWiel3BwtYgv8LNhZCh-54ec8c3789f550ad3d1b26fc5c61db56.jpg",
+    "alt": "Model kitchen at Park West on Douglas Avenue",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://parkwestoaklawn.com/gallery/",
+    "credit": "Park West",
+    "checked": "2026-11-07"
+  },
+  "APT|Whitney Uptown": {
+    "src": "https://whitneyuptown.com/assets/images/cache/whitney-uptown-007--d2a46ead05082fd23274d599b39e2b2f.jpg",
+    "alt": "Whitney Uptown community lounge with city views",
+    "kind": "community",
+    "caption": "Community photo, not a specific unit",
+    "gallery": "https://whitneyuptown.com/",
+    "credit": "Whitney Uptown",
+    "checked": "2026-11-07"
+  },
+  "APT|Skyline Trinity": {
+    "src": "https://apollostore.blob.core.windows.net/skylinetrinity/uploads/assets/skyline-int1.9deb9727.jpg",
+    "alt": "Model living room at Skyline Trinity",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.skylinetrinity.com/",
+    "credit": "Skyline Trinity",
+    "checked": "2026-11-07"
+  },
+  "APT|4123 Cedar Springs": {
+    "gallery": "https://www.4123cedarspringsaptsdallas.com/",
+    "note": "Official site blocked automated access. No photo is embedded.",
+    "checked": "2026-11-07"
+  },
+  "APT|Fairmount at Oak Lawn": {
+    "gallery": "https://www.fairmountoaklawn.com/",
+    "note": "Official site blocked automated access. No photo is embedded.",
+    "checked": "2026-11-07"
+  },
+  "budget|MAA Addison Circle": {
+    "src": "https://edge.sitecorecloud.io/midamericaa7861-test603e-prod9e24-2f78/media/project/maac/maac_com/texas/dallas/properties/maa-addison-circle/property-hero/243401---maa-addison-circle---kitchen-2-main.jpg?h=600&iar=0&w=960&q=70",
+    "alt": "Model kitchen at MAA Addison Circle",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.maac.com/texas/dallas/maa-addison-circle/",
+    "credit": "MAA Addison Circle",
+    "checked": "2026-11-07"
+  },
+  "budget|Savoye": {
+    "src": "https://www.udr.com/globalassets/communities/savoye/images/savoye_2025_pl1-08_w360.jpg",
+    "alt": "Savoye community pool and apartment buildings at Vitruvian Park",
+    "kind": "community",
+    "caption": "Community photo, not a specific unit",
+    "gallery": "https://www.udr.com/dallas-apartments/addison/savoye/",
+    "credit": "Savoye",
+    "checked": "2026-11-07"
+  },
+  "budget|Rise Highland Park (Dallas, HP edge)": {
+    "src": "https://uymzdc367ch5de5a.public.blob.vercel-storage.com/propco/media/rise-highland-park/5b46b325ab32d8ead602bc35229f480a16cdeb3685ea8ed4964234de82767704-640.webp",
+    "alt": "Rise Highland Park community lobby",
+    "kind": "community",
+    "caption": "Community photo, not a specific unit",
+    "gallery": "https://rise48communities.com/tx/dallas/rise-highland-park",
+    "credit": "Rise Highland Park",
+    "checked": "2026-11-07"
+  },
+  "budget|Brooklyn @ 9590": {
+    "src": "https://thebrooklynat9590.com/wp-content/uploads/2021/08/home-gallery.jpg",
+    "alt": "Model living room at The Brooklyn at 9590",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://thebrooklynat9590.com/",
+    "credit": "The Brooklyn at 9590",
+    "checked": "2026-11-07"
+  },
+  "budget|Strata": {
+    "gallery": "https://www.simpsonpropertygroup.com/apartments/dallas-texas/strata-dallas",
+    "note": "Official page blocked automated access. No photo is embedded.",
+    "checked": "2026-11-07"
+  },
+  "budget|The Atlantic at Kessler Park": {
+    "gallery": "https://www.atlanticatkesslerpark.com/",
+    "note": "A property pool photo exists on the official site only as a large original. It is not embedded, to avoid a heavy unverified-size file and nearby stock images on the same host.",
+    "checked": "2026-11-07"
+  },
+  "budget|Oakwood Creek": {
+    "gallery": "https://www.theoakwoodcreek.com/",
+    "note": "Official site blocked automated access. No photo is embedded.",
+    "checked": "2026-11-07"
+  },
+  "budget|Wyndham on the Creek": {
+    "gallery": "https://www.wyndhamonthecreek.com/",
+    "note": "Official site blocked automated access. No photo is embedded.",
+    "checked": "2026-11-07"
+  },
+  "grapevine|Montelena Apartments": {
+    "src": "https://www.simpsonpropertygroup.com/Uploads2/CommunitySliderImagesV2_resized/Montelena_ModelKitchen_02_HIGH.jpg",
+    "alt": "Model kitchen at Montelena Apartments in Grapevine",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.simpsonpropertygroup.com/apartments/grapevine-texas/montelena-grapevine",
+    "credit": "Montelena Apartments",
+    "checked": "2026-11-07"
+  },
+  "grapevine|Grapevine Station Apartments & Cottages": {
+    "src": "https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_371,h_1600,w_4000,c_crop/q_auto,f_auto,fl_lossy,g_center,h_420,w_740/g5/g5-c-666xnt0yj-sunridge-management-group/g5-cl-1pq4vvxq7i-sunridge-management-group-grapevine-tx/uploads/grapevinestation01_lglwb2.jpg",
+    "alt": "Grapevine Station apartment buildings exterior",
+    "kind": "exterior",
+    "caption": "Community exterior, not a specific unit",
+    "gallery": "https://www.grapevinestationapts.com/",
+    "credit": "Grapevine Station",
+    "checked": "2026-11-07"
+  },
+  "grapevine|Resort at 925 Main — 1BR lofts only": {
+    "src": "https://res.cloudinary.com/g5-assets-cld/image/upload/q_auto,f_auto,fl_lossy,c_fill,g_center,h_480,w_800/g5/g5-c-5bspw9vu7-westcorp-management-client/g5-cl-1p4bmby5lp-westcorp-management-client-grapevine-tx/uploads/925_Model_3_cimuve_rxbbtx.jpg",
+    "alt": "Model bedroom at Resort at 925 Main",
+    "kind": "model",
+    "caption": "Model photo, not a specific loft unit",
+    "gallery": "https://www.925mainstreet.com/",
+    "credit": "Resort at 925 Main",
+    "checked": "2026-11-07"
+  },
+  "TH|5909 Birchbrook Dr #223": {
+    "note": "No verified unit photo. The mapped source is a neighborhood search page, not this home's gallery.",
+    "checked": "2026-11-07"
+  },
+  "TH|6202 Goliad Ave": {
+    "note": "No verified unit photo. The mapped source is a neighborhood search page, not this home's gallery.",
+    "checked": "2026-11-07"
+  },
+  "TH|111 S Henderson Ave": {
+    "note": "No verified unit photo. The mapped source is a neighborhood search page, not this home's gallery.",
+    "checked": "2026-11-07"
+  },
+  "TH|605 W Page Ave": {
+    "note": "No verified unit photo. The mapped source is a neighborhood search page, not this home's gallery.",
+    "checked": "2026-11-07"
+  },
+  "THG|1910 Wilshire Dr": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|4236 Cuesta Dr": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|2625 Encina Dr #4": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|408 Santa Fe Trl #61": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|4777 Cedar Springs Rd 4D": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|3102 Kings Rd #3201": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|2700 Old Denton Rd #1054": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|2700 Old Denton Rd #2257": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|5630 Spring Valley Rd 17d": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|5100 Verde Valley Ln #277": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|5616 Preston Oaks Rd #1506": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|5325 Bent Tree Forest Dr #2232": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|18040 Midway Rd #230": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|4242 N Capistrano Dr #150": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|7474 Fair Oaks Ave #7402": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|5710 Leona Ave #9": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|17490 Meandering Way #1005": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|4535 Woodsboro Ln": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|8745 Manhattan Ave": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|8609 Heather Ridge Dr": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "THG|8734 Manhattan Ave": {
+    "note": "HAR listing is linked. MLS photos are not republished.",
+    "checked": "2026-11-07"
+  },
+  "budget|4321 Cole Ave": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|Apartments at M-Streets (1925 Moser)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|Maverick Oak Lawn": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|The Courtyards at Lower Greenville": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|727 Glendale St Apt B (duplex)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|5721 Victor St (duplex)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|5901 Vickery Blvd (half duplex)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|Vitruvian West": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|4067 Beltway Dr #122 (townhouse-style condo)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|4820 Westgrove Dr (townhouse)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|Bent Tree Fountains": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|4049 Herschel Ave Unit A (Dallas, HP edge)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|3431 Granada Ave #A (cheapest UP found; over budget)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|City North": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "budget|Infinity on the Oaks": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "grapevine|1103 Airline Dr #4": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "grapevine|714 E Wall St #111": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "grapevine|713 Cory St (duplex)": {
+    "note": "No safely reusable photo from this property's own site. Open the listing.",
+    "checked": "2026-11-07"
+  },
+  "L2|Park View on Cole": {
+    "note": "No safely reusable verified photo. Open the source listing.",
+    "checked": "2026-11-07"
+  }
+};
