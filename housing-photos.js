@@ -513,5 +513,35 @@ window.HOUSING_PHOTOS={
     "credit": "Delante Apartments",
     "note": "Official photo gallery (28 photos). Individual image files were not available to review, so none is embedded.",
     "checked": "2026-11-07"
+  },
+  "L2|Cortland at Valley Ranch": {
+    "src": "https://cortland.com/assets/images/Stoneleigh-at-Valley-Ranch_model-kitchen-3.jpg",
+    "alt": "Model kitchen at Cortland at Valley Ranch with white cabinets, granite, and stainless appliances, not a specific unit",
+    "kind": "model",
+    "caption": "Model kitchen, not unit #3027. Renovated finishes; popcorn ceiling remains.",
+    "gallery": "https://cortland.com/apartments/cortland-at-valley-ranch/gallery/",
+    "linkType": "gallery",
+    "credit": "Cortland at Valley Ranch",
+    "checked": "2026-11-07"
+  },
+  "L2|The Oaks at Valley Ranch": {
+    "src": "https://medialibrarycfo.entrata.com/17651/MLv3/3/21/2022/05/17/035754/62841a62404de8.89684155200.jpg",
+    "alt": "Clubhouse lounge at The Oaks at Valley Ranch, not an apartment or townhome interior",
+    "kind": "community",
+    "caption": "Community clubhouse, not a B3 or B4 interior",
+    "gallery": "https://www.oaksatvalleyranch.com/irving/the-oaks-at-valley-ranch/amenities/",
+    "linkType": "website",
+    "credit": "The Oaks at Valley Ranch",
+    "checked": "2026-11-07"
+  },
+  "L2|Heritage at Valley Ranch": {
+    "src": "https://resource.rentcafe.com/image/upload/q_auto,f_auto,w_1200/s3/2/11269/heritage-at-valley-ranch_irving-tx_apartment-12.jpg",
+    "alt": "Model living room with a vaulted ceiling at Heritage at Valley Ranch, not a specific unit",
+    "kind": "model",
+    "caption": "Model living room, not unit #0304",
+    "gallery": "https://www.heritageatvalleyranchapts.com/",
+    "linkType": "website",
+    "credit": "Heritage at Valley Ranch",
+    "checked": "2026-11-07"
   }
 };

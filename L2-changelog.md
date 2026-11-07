@@ -1,5 +1,15 @@
 # L2 listings changelog
 
+## 2026-11-07 (America/Chicago) — Valley Ranch
+
+### Added (3)
+1. **Cortland at Valley Ranch** — 8605 N MacArthur Blvd, Irving 75063. Pin 32.9256283, -96.9556973 (Nominatim and reverse geocode both say 8605). DaVinci #3027 is available starting Dec 17, 2026, not “available now”: $2,099 including mandatory flat fees, base $2,022. The DaVinci page itemizes that base to $2,098. Usage utilities are extra. #3014 at $2,184 is over the cap. Model kitchen from cortland.com; gallery linked. January 2027 is not a separate date on #3027.
+2. **The Oaks at Valley Ranch** — 9519 E Valley Ranch Pkwy, Irving 75063. One pin for B3 and the B4 townhome. Pin 32.9367798, -96.9457833 is the Nominatim hit for 9519; reverse geocode of that point names 9501 on the same parkway. Unit rows, not the plan summary: B3 #1098-2 $1,869 on Nov 14, 2026; #2101-2 $1,824 on Dec 15, 2026; #701-1 $1,724 on Jan 6, 2027. B4 townhome from $1,949, available Dec 18, 2026. All are 18-month advertised terms. Community fees page lists about $55.50 in monthly charges that are not marked optional, plus usage utilities. Advertised rent is not all-in. Clubhouse photo only.
+3. **Heritage at Valley Ranch** — 9805 N MacArthur Blvd, Irving 75063. Pin 32.9364865, -96.9519197 reverse-geocodes to 9805. A second Nominatim point for the same query is 9937 and was not used. Budget unit is B3 #0304, Available Now, starting $1,992. #0301 at $2,242 on Jan 7, 2027 is over the cap. Fees beyond the starting rent are unknown. Model living-room photo from the official site’s image, not unit #0304.
+
+### Not added
+- **Shorewood Park Townhomes** (Grapevine) — no new Grapevine pin. No official renovated-interior photos were available to review. Published rents disagree across indexes ($1,695, $1,795, and a HAR plan figure). 1980s exterior marketing is not enough for the quality bar. The Preserve, AMLI Grapevine, Wildwood Creek, Dove Park, Devi, Grant, Anthem, Lexington, District at Cypress Waters, Olympus, St. Marin, and Palmer stay off the map for the reasons in the Nov 7 research pass.
+
 ## 2026-11-07 (America/Chicago) — Delante, Las Colinas
 
 ### Added (1)
