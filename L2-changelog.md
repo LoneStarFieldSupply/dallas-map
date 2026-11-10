@@ -1,5 +1,51 @@
 # L2 listings changelog
 
+## 2026-11-10 (America/Chicago)
+
+No housing card was added. Three walk-in gyms and one supplement store were added. Nothing already on the map was removed.
+
+### Added — gyms (3)
+
+1. **Metroflex Gym Plano** — 2701 Dobie Dr Suite 200, Plano 75074. Pin 33.0340308, -96.6979356 is OpenStreetMap building way/650352841. Reverse geocode of that point names 2701 Dobie Drive. An Esri point about 20 m east also reverse-geocodes to 2701. The Census interpolation reverse-geocodes to 1108 Dobie Drive and was not used. Official about page lists power bars, specialty bars, deadlift and squat bars, deadlift platforms, EliteFTS power racks, bodybuilding machines, conditioning equipment, and strongman implements. The homepage says the gym is open 24/7. This is a hardcore strength gym in Plano, not a new-opening claim and not another big-box chain pin. Sources: [metroflexplano.com](https://www.metroflexplano.com/), [about](https://www.metroflexplano.com/about-us).
+
+2. **Absolute Recomp Lewisville** — 719 Hebron Pkwy, Lewisville 75057. Pin 33.0114562, -96.9723707 is OpenStreetMap retail building way/738366354, tagged house number 719. Reverse geocode of that point names 719 Hebron Parkway. The Esri point reverse-geocodes to Joann at 715 Hebron Parkway, and the Census point reverse-geocodes to 751 Hebron Parkway. Those two were not used. The Lewisville page says the gym is staffed 24/7 and describes strength machines, cardio equipment, dedicated men’s and women’s saunas, a posing room, and locker rooms. The same page says the retail area has supplements, but it does not name brands, so this is a gym pin only. Not a claimed new opening. Source: [Lewisville page](https://absoluterecompgyms.com/lewisville-tx/).
+
+3. **Absolute Recomp Frisco** — 2930 Preston Rd Suite 800, Frisco 75034. Pin 33.1027663, -96.8024267 is OpenStreetMap way/1008192673. Reverse geocode names 2930 Preston Road, Frisco. Esri’s point for that address is about 9 m away and reverse-geocodes to the same street address. The Domino’s node at 2930 Preston was not used. OpenStreetMap tags this way with ZIP 75024; the gym page says 75034. The house number and street match. The Frisco page says the gym is staffed 24/7 and names incline treadmills, stair climbers, bikes, rowers, wood saunas, a posing room, and locker rooms. Supplement brands in the retail area are not named, so this is a gym pin only. Not a claimed new opening. Source: [Frisco page](https://absoluterecompgyms.com/frisco-tx/).
+
+### Added — supplement stores (1)
+
+1. **Bemoxie Supplements (Mesquite)** — 3330 N Galloway Ave Suite 317, Mesquite 75150. Pin 32.8103995, -96.6110285 is OpenStreetMap way/419334850. Reverse geocode names 3330 North Galloway Avenue. The Census point is a few meters away and also reverse-geocodes to 3330. The Esri point reverse-geocodes to North Town East Boulevard without the house number and was not used. The homepage and the catalog footer both list this Mesquite address next to the Dallas store at 8076 Ferguson Rd, which is already pinned. This is the second storefront, not a claimed new opening. Catalog and homepage products checked Nov 10, 2026 include SoCal Supps Wild Fire, Demolish Pre Workout, Dark Labs Crack Gold, Blackstone Labs Halo Elite, Enlightened Solutions Lucid (described there as an extreme high-stimulant pre-workout), and Scary Hours (eria jarensis, synephrine HCl, alpha-yohimbine). Protein products are on the same catalog (including PEScience and Barebells). Store shelf prices and hours are not listed, so the card says “Not listed.” Nearest mapped listing is 8.6 mi straight-line to 6202 Goliad Ave. Nearest yellow hub is 14.0 mi straight-line to CityLine. Those are straight-line figures, not walk or drive times. Source: [bemoxiesupplements.com](https://www.bemoxiesupplements.com/), [catalog](https://www.bemoxiesupplements.com/collections/all).
+
+### Reviewed / not added — housing
+
+No new orange L card. Unit rows were compared with the 2BR, ≥1,100 sq ft, ≤$2,100 cap. Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs, and 2403 N Washington #337. January 2027 availability was not assumed.
+
+- **Cayman Las Colinas** (1071 Lake Carolyn Pkwy, same road as Tower 909). Official floor plans on Nov 10 still show B3 at 1,101 sq ft from $2,055 and fully occupied, B2 at 1,099 sq ft from $2,138, and townhomes from $2,924. RentCafe unit rows the same day show 2BR from $2,199, including B4 unit CLC1025 at $2,494 on Jan 7, 2027. Apartments.com shows B3 unit CLC4056 at $2,442. No 2BR row is both ≥1,100 sq ft and ≤$2,100.
+- **Crest at Las Colinas Station** (871 Lake Carolyn Pkwy). HotPads 2BR rows at ≥1,140 sq ft start at $2,108, and several dates on that page are already past. ForRent unit rows are dated 2025. Rentable says the property is not currently leasing. No corroborated unit under the cap.
+- **Walnut Hill Las Colinas** (3503 W Walnut Hill Ln). Built 2002, about 375 conventional apartments. Official unit row: B2 #3087, 1,109 sq ft, from $1,890 on a 17-month term, available Nov 29, 2026, with wood-style flooring listed and no attached garage on that row. B2 #1087, same size, one-car attached garage, is $2,140 on Jan 17, 2027. Amenities copy lists granite, stainless appliances, and 9-ft ceilings. That is a renovated garden community, not a loft or a skyline townhome with a private garage inside the cap.
+- **Shiloh Park Townhomes** (3500 E Park Blvd, Plano). Official Lubbock plan is 2BR, 1,150 sq ft, “from $1,800,” and “1 townhome available,” with no unit number or date. HAR lists that 1,150 sq ft plan at $2,142. Rent.com’s available 1,550 and 1,650 sq ft rows are $2,189–$2,439. The $1,800 figure is a starting rent, not a unit row.
+- **Lakeside at Coppell**. The 1,122 sq ft 2BR rows start at $2,102. The 1,022 sq ft rows are under the size filter.
+- **Town Creek** (Coppell, built 1984) and **Limestone Ranch** (Lewisville, built 2002) have some 2BR rows inside the size and rent filters. Neither has a documented loft, skyline view, or attached private garage, and neither was treated as meeting the finish bar of the selected listings.
+- **The Aidan** (Lewisville) 2BR plans top out at 1,050 sq ft. **Fox Hollow** (Lewisville, built 1983) 2BR plans top out at 1,042 sq ft.
+- **2276 Fletcher Trail, Plano**. A 2006 townhome listing shows 2BR, 1,469 sq ft, attached 2-car garage, $2,099, pets allowed. Status is Pending and the record was last updated Aug 1, 2026. January 2027 availability is not confirmed.
+- **4279 Madera Rd, Irving** is 950 sq ft and the listing says dogs are not allowed. **13906 Montfort Dr** is 1,071 sq ft.
+- Nov 7 rejects were left off. No material price or photo change cleared both the cap and the quality bar. Olympus still shows a 1,115 sq ft 2BR at $2,501. Palmer’s 1,107 sq ft plan is still $2,069–$2,128, and the Nov 7 quality rejection is unchanged. St. Marin, District at Cypress Waters, Shorewood Park, Discovery at The Realm, and the other named Nov 7 rejects were not reopened.
+
+### Reviewed / not added — gyms and supplements
+
+- **Absolute Recomp Las Colinas**, 2000 Market Pl Blvd Suite 150, Irving 75063, is open on its own page: staffed 24/7, strength floor, treadmills, stairs, bikes, and dedicated saunas. It was not pinned. The Census point reverse-geocodes to 2010 Market Place Boulevard, the Esri point reverse-geocodes to 1900, and the Nominatim interpolation reverse-geocodes to 2010. No checked point reverse-geocodes to 2000.
+- **Battle Axe Barbell**. The official site describes a powerlifting gym in the Garland area with 24/7 member access. The site’s business address is blank. A third-party point for 1494 W Buckingham Rd reverse-geocodes to Whataburger at 1506 W Buckingham Rd, so it was not used.
+- **Hybrid Barbells** (650 State Hwy 121 #109, Lewisville) says visits are by appointment only. It is not a walk-in gym.
+- **Absolute Recomp retail** at the added gyms was not given a supplement pin. The pages say supplements, including pre-workout, are sold in the gym. They do not name brands.
+- **The Vitamin Shoppe East Plano**, 1001 N Central Expy, Plano 75075, is a chain location he already finds insufficient. It is not the same store as the mapped shop at 5930 W Park Blvd.
+- **Nutrition Nation Mesquite** (3501 Towne Crossing Blvd #103 on the Eminent retailer list) has a single-brand retailer listing and a Knight Chews stockist line, not a current multi-brand pre-workout catalog.
+- **Lockout Supplements** at 344 E Louisiana St, McKinney, is outside the mapped cities.
+- Already mapped and left in place: HercSupps Plano and Richardson, Alpha Fuel Nutrition, Ultimate Sports Nutrition Frisco and Frankford, Bemoxie Dallas, 5 Star Nutrition, Luxx Sports Nutrition, GNC, Vitamin Shoppe, and Total Nutrition.
+
+### Dedup
+
+Orange L, Grapevine, budget, apartment, townhome, and garage-townhome pins were left unchanged. Bemoxie Dallas stays the Ferguson Rd pin. The Mesquite card is the second address already named in that Dallas card’s catalog note. Metroflex Plano and both Absolute Recomp pins were not on the gym layer. No landlord, gym, or store was contacted.
+
 ## 2026-11-07 (America/Chicago) — Valley Ranch
 
 ### Added (3)
