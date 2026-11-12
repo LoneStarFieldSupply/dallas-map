@@ -1,5 +1,46 @@
 # L2 listings changelog
 
+## 2026-11-12 (America/Chicago)
+
+No housing card was added. One walk-in gym was added. No supplement store was added. Nothing already on the map was removed.
+
+### Added — gyms (1)
+
+1. **Hidden Gym North Dallas** — 17390 Preston Rd Ste 360, Dallas 75252. Pin 32.9896793, -96.8014343 is OpenStreetMap way/323051959. Nominatim and Esri reverse geocodes of that point both name 17390 Preston Road, Dallas 75252. OSM names the way La Hacienda Ranch, a restaurant at the same street address; the gym page puts suite 360 there. The Census interpolation for 17390 reverse-geocodes to 17372–17378 Preston Road and was not used. Esri’s suite candidate reverse-geocodes to 17390 Preston Rd Ste 255 (Wallpapers Galore), the same street address and a different suite, and was not used. The North Dallas page lists competition-grade powerlifting equipment, competition-grade strongman equipment, a strength floor, a full cardio section, functional turf, sleds, a private classroom/posing room, showers, and day-use lockers. That page lists hours Mon–Fri 5am–10pm and Sat–Sun 5am–8pm, and lists 5am key fob access. The guest-pass page, which includes this club, names Arsenal Strength, Hammer Strength, and Prime in the weight room. This is an existing North Dallas strength gym, not a new-opening claim and not a big-box chain. Sources: [North Dallas page](https://join.hiddengym.net/northdallas/), [guest pass](https://join.hiddengym.net/guest-pass/).
+
+### Reviewed / not added — housing
+
+No new orange L card. Checked Nov 12, 2026. Unit rows were compared with the 2BR, ≥1,100 sq ft, ≤$2,100 cap. Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs, and 2403 N Washington #337. January 2027 availability was not assumed. This pass looked hardest at Addison, Grapevine, and Coppell, which the Nov 7 and Nov 10 passes covered least.
+
+- **Allegro** (15750 Spectrum Dr, Addison). Official 2BR page on Nov 12 shows B3, 1,266 sq ft, 3 available, base rent starting from $1,840.56 on a 15-month term, with no unit number and no move-in date on that row. The same page says base rent is not the total monthly leasing price and that fixed mandatory fees are extra; those fees are not itemized there. 2B5, 1,223 sq ft, starts from $1,915.56 and is marked available Jan 22, 2027, again as a starting rent rather than a unit row. C-plan rows with studies start above $2,400. Amenities copy says a rooftop pool with skyline views and that private garages and attached garages exist in select apartments. Phase 1 garage spaces are $35–$125. None of that is tied to the in-budget B3 or 2B5 rows. Apartments.com the same day shows B3 units at $1,804–$1,854 with “Now” or month/day dates and no year. Walk Score on Apartments.com is 68, Somewhat Walkable. Dogs are allowed, limit 2, $20/mo and a $500 one-time fee; weight and breed limits are not on those pages. Built 2008, about 393 units, 5 stories. That is a conventional mid-rise with a community rooftop, not a documented loft or a skyline townhome with a private garage inside the cap.
+- **Camden Addison** F plan is 2BR, 1,220 sq ft, starting $2,139, with an attached private garage. The starting price is over the cap.
+- **Waterford Court** (14700 Marsh Ln, Addison) 2BR plans with attached garages start at $2,500–$2,599.
+- **MAA Addison Circle** unit rows at ≥1,100 sq ft that are at or under $2,100 are ordinary traditional plans (for example 1,182 sq ft at $2,055). The page rating shown there is 2.3. No loft, skyline, or attached-garage unit inside the cap was documented.
+- **1949 Shorewood Dr, Grapevine** (Shorewood Park Estates). Public listings disagree: one says $1,795 and one says $1,895 after a cut from $1,995. Size is 1,270 sq ft, 2BR/1.5BA, built 1973. The description says a two-car garage; the property details say 1 garage space. Available date shown is Sept 2, 2026. January 2027 is not confirmed. Interior photos were not available as official property images in this pass, so it does not clear the photo bar that kept Shorewood Park off on Nov 7.
+- **1505 Bellaire Dr, Grapevine** is 989 sq ft with a carport. **239 W Peach St** is 1,080 sq ft and the listing says no pets.
+- **Coppell townhome rows on Samuel Blvd.** 222 Samuel Blvd Unit L3 is 1,037 sq ft. 214 and 216 Samuel Blvd are marked check back soon for availability. 214 says one small pet. None is a documented attached-garage unit with a current January 2027 date.
+- **South Side on Lamar** 2BR rows checked Nov 9–12 start at $2,237. **American Beauty Mill Lofts** available rows on the official page are loft/1-bath plans, not 2BR. **Skyline Trinity** and **Magnolia Station Lofts II** are already pinned.
+- Nov 7 and Nov 10 rejects were left off. No material price or photo change cleared both the cap and the quality bar.
+
+### Reviewed / not added — gyms and supplements
+
+- **Hidden Gym Richardson**, 235 N. Central Expressway, was not pinned. The join page prints ZIP 75080 and hiddengym.net prints 75023 for the same street. Two OpenStreetMap ways for that query reverse-geocode to 215 and 270 N Central Expressway. Esri’s point for 235 N Central Expressway reverse-geocodes in Nominatim to 235 Custer Road, and Esri’s own reverse names a different fitness POI (“30033 Monster Bodybuil”) at 235 N Central Expy. No checked point reverse-geocodes cleanly to Hidden Gym at 235 N Central Expressway.
+- **Hidden Gym Allen** is outside the mapped cities. The join page also prints ZIP 70052 on the Allen line.
+- **Absolute Recomp Las Colinas**, 2000 Market Pl Blvd Suite 150, Irving 75063, is still open on its own page. Esri has a fitness POI named Absolute Recomp at 2000 Market Place Blvd. Nominatim reverse of that POI point names 1900 Market Place Boulevard. The Census point for 2000 Marketplace Blvd reverse-geocodes to 2010. The Nov 10 geocode rejection is unchanged.
+- **The Yard Gym** (5100 Belt Line Rd Suite 716, Addison) is a coached group-training gym (RIG and TURF sessions), not a walk-in strength floor.
+- **North Dallas Strength** publishes two addresses, 17822 Davenport Rd and 5999 Summerside Dr Suite 108. The pages reviewed do not describe a walk-in powerlifting floor.
+- **Strong Fitness & Performance** (4207 Simonton Rd, Farmers Branch) offers an adult open-gym membership and names Eleiko, Rogue, Westside Barbell, and strongman equipment. The same site is a ninja and kids facility with birthday parties and open play. It was not added as a dedicated strength gym.
+- **Redefined / Redeemed Physique** (1000 N Belt Line Rd Suite 109, Irving) appears on an Eminent retailer list. An Instagram post says “coming soon” and names Evogen, VMI, Eminent, and D-Fine8. A booking page describes massage, posing, and coaching, not a current multi-brand pre-workout catalog.
+- **JSN Sports Nutrition** (4740 Gretna St, Dallas) is listed by directories as a supplement shop. Hours disagree across those directories. No first-party catalog naming current legal pre-workout products was found. One directory also says the shop stocks SARMs, which is not evidence of the legal OTC selection used for the mapped shops.
+- **AlbertFit** lists its own Betagem and Crank pre-workouts, with Betagem and Crank EVO3 marked out of stock. The site gives hours and “Dallas, TX 75248” without a street. A MapQuest point says 1250 Hunt St, Richardson 75082. The address is not corroborated, and the visible selection is one house brand rather than a current multi-brand hardcore wall.
+- **Natural Affects** uses a PMB address on R. L. Thornton and sells its own BCAA and pre-workout flavors online. It is not a verified retail floor.
+- **HercSupps of Melissa** is outside the mapped cities. The Plano page still says “Opening Summer 2026.”
+- GNC, Vitamin Shoppe, and Total Nutrition locations were left off. Already mapped shops were left in place, including Bemoxie Dallas and Mesquite, HercSupps Plano and Richardson, Alpha Fuel, Ultimate Sports Nutrition, 5 Star Nutrition, and Luxx Sports Nutrition.
+
+### Dedup
+
+Orange L, Grapevine, budget, apartment, townhome, and garage-townhome pins were left unchanged. Precision Fitness at 17370 Preston Rd stays a separate pin from Hidden Gym at 17390. Metroflex Plano and both Absolute Recomp pins stay as they were. No landlord, gym, or store was contacted.
+
 ## 2026-11-10 (America/Chicago)
 
 No housing card was added. Three walk-in gyms and one supplement store were added. Nothing already on the map was removed.
