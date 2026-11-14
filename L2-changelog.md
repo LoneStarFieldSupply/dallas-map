@@ -1,5 +1,27 @@
 # L2 listings changelog
 
+## 2026-11-13 night (America/Chicago) — Greenville corridor to I-635, first adds
+
+Started a broader ZIP sweep of the full Greenville Ave corridor from Ross Ave north to I-635 (Lower and Upper Greenville, Lovers, Skillman, Northwest Hwy, Lake Highlands west, Walnut Hill, Royal, and Forest near Greenville), covering 75206, 75214, 75231, 75238, 75243, 75225, and 75230, plus the earlier Ross / White Rock / Midtown ZIPs. Same rules: 2+ bedrooms, under $2,100, apartments only with a community parking garage, townhomes with a private or attached garage, visual check on Esri aerials (Google Maps Static API 403). This section records the first two corridor properties that cleared the filter; the inventory is still being expanded.
+
+1. **Haven Lake Highlands** — 7077 Watercrest Parkway, Dallas 75231 (built 2014; about 200 units / 4 stories, Lake Highlands Town Center)  
+   - Official floor plans: B1 2/1, 766 sf, Total Monthly Leasing Price from $1,811 (base $1,712). Official 2/2 plans were listed but not priced this pass. Official granite counters (color not confirmed).  
+   - Parking type: parking garage (visually confirmed on Esri aerial; official amenities list a controlled-access parking garage).  
+   - Sources: [official floor plans](https://www.havenlakehighlands.com/floorplans), [amenities](https://www.havenlakehighlands.com/amenities).  
+   - Commute: ~21 min est. from 11.8 mi straight-line.
+
+2. **75 West** — 7927 Forest Lane, Dallas 75230 (built 2000; apartments and townhomes)  
+   - Official townhomes with a two-car garage: TH2.1 2/2, 1,109 sf, from $1,876; TH2.2 1,208 sf from $1,881; TH2.3 1,439 sf from $1,948. Official granite counters (color not confirmed).  
+   - Parking type: private two-car garage on the townhome plans (visually confirmed). Apartment 2BRs are also under the cap but do not have a community structured garage (official individual/covered garage on select; aerial shows surface lots).  
+   - Source: [official available units](https://www.live75west.com/availableunits), [amenities](https://www.live75west.com/amenities).  
+   - Commute: ~17 min est. from 9.9 mi straight-line.
+
+### Corridor notes so far (not added)
+Garage mid-rises that are over $2,100 on official/current 2BR asks: Mirasol Park Lane (8110 Park Ln; official garage; 2BR well over), Camden Henderson (2BR from about $2,479; rentable private garages), Camden Greenville (2BR townhomes from about $2,579; underground garage), Modena on Walnut Hill (2BR from about $2,110). Garden/covered-lot communities under the cap (The Trellis, Paxton at Lake Highlands, and many 75243/75238 garden properties) failed the community-garage rule.
+
+### Notes
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 night (America/Chicago) — Luxia Midtown Park and MAA Cathedral Arts
 
 Added two slightly-over-cap 2BR apartments with visually confirmed community parking garages, at your request.

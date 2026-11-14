@@ -645,5 +645,18 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-13",
     "linkType": "website"
   }
+,
+  "L2|Haven Lake Highlands": {
+    "gallery": "https://www.havenlakehighlands.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  },
+  "L2|75 West": {
+    "gallery": "https://www.live75west.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  }
 
 };
