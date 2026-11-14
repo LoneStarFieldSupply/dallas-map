@@ -1,5 +1,27 @@
 # L2 listings changelog
 
+## 2026-11-13 night (America/Chicago) — Luxia Midtown Park and MAA Cathedral Arts
+
+Added two slightly-over-cap 2BR apartments with visually confirmed community parking garages, at your request.
+
+1. **Luxia Midtown Park** — 8107 Manderville Lane, Dallas 75231 (built 2021; about 307 units / 5 stories)  
+   - Official floor plans (evening re-check): B1 2/2, 1,094–1,119 sf, Total Monthly Leasing Price $2,143 (base $2,078, 13-month). Official totals include mandatory monthly fees. B2 starts at a $2,220 total.  
+   - Official granite counters (color not confirmed).  
+   - Parking type: parking garage (visually confirmed on Esri aerial; official amenities list a parking garage).  
+   - Sources: [official floor plans](https://www.luxiamidtownpark.com/floorplans), [amenities](https://www.luxiamidtownpark.com/amenities).  
+   - Commute: ~17 min est. from 9.9 mi straight-line to Tower 909. About 0.33 mi from The Sevens.
+
+2. **MAA Cathedral Arts** — 5088 Ross Ave, Dallas 75206 (built 2024; about 386 units / 5 stories)  
+   - Official available apartments (evening re-check): 2BR from $2,128 (B1 1,011 sf, unit 1435, Feb 6, 2027). Unit 2402 from $2,173 available Nov 14, 2026. Advertised rent is not all-in; official required monthly fees are $18 + $55 + $21 ($94), so all-in for the $2,128 unit is about $2,222.  
+   - Official granite counters (color not confirmed).  
+   - Parking type: parking garage (visually confirmed on Esri aerial; official community perks list a multi-level parking garage). Reserved parking starts at $75/mo.  
+   - Source: [official community page](https://www.maac.com/texas/dallas/maa-cathedral-arts/).  
+   - Commute: ~18 min est. from 10.3 mi straight-line. About 0.85 mi from Gatsby on Ross.
+
+### Notes
+- Both are slightly over the $2,100 cap and were added with approval.
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 night (America/Chicago) — visual garage re-check
 
 Built an internal candidate list of 2+ bedroom apartments and townhomes under $2,100 across Ross, Bennett, Moser, Henderson, Greenville, White Rock Lake, and Midtown/The Sevens, then checked each one on Esri World Imagery aerials (Google Maps Static API returned 403 without a key). Apartments needed a visible community / structured / podium / wrap parking garage; townhomes could pass with a private or attached garage. The scored candidate list and Esri aerials were kept as an internal working file, not published on the map.

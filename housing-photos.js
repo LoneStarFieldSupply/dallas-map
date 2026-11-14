@@ -632,5 +632,18 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-13",
     "linkType": "website"
   }
+,
+  "L2|Luxia Midtown Park": {
+    "gallery": "https://www.luxiamidtownpark.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  },
+  "L2|MAA Cathedral Arts": {
+    "gallery": "https://www.maac.com/texas/dallas/maa-cathedral-arts/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  }
 
 };
