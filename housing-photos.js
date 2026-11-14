@@ -585,5 +585,33 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable official photo was verified this pass. The mapped source is the official photo gallery (32 photos).",
     "checked": "2026-11-13",
     "linkType": "gallery"
+  },
+  "L2|Gatsby on Ross": {
+    "gallery": "https://www.gatsbyonross.com/photogallery",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official photo gallery (25 photos).",
+    "checked": "2026-11-13",
+    "linkType": "gallery"
+  },
+  "L2|The Academic": {
+    "src": "https://theacademicdallas.com/wp-content/uploads/2022/09/The-Academic-39_1024x594.jpg",
+    "alt": "The Academic model kitchen with speckled gray granite counters",
+    "kind": "model",
+    "caption": "Model/community kitchen, not a specific unit. Official photo shows speckled gray granite, not solid white.",
+    "gallery": "https://theacademicdallas.com/",
+    "linkType": "website",
+    "credit": "The Academic",
+    "checked": "2026-11-13"
+  },
+  "L2|4600 Ross": {
+    "gallery": "https://www.4600ross.com/photogallery",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official photo gallery.",
+    "checked": "2026-11-13",
+    "linkType": "gallery"
+  },
+  "L2|Camden Belmont": {
+    "gallery": "https://www.camdenliving.com/apartments/dallas-tx/camden-belmont",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
   }
 };

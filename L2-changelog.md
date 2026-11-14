@@ -1,5 +1,65 @@
 # L2 listings changelog
 
+## 2026-11-13 evening (America/Chicago) — Ross / Bennett / Moser / Henderson / Greenville
+
+Added four orange L listings from a search of Ross Ave, Bennett Ave, Moser Ave, Henderson Ave, and Greenville Ave. Filter: 2+ bedrooms, under $2,100, garage parking only (parking garage, structured/covered garage, or attached/private garage). Public pet lines state published policy only, plus “Assistance-animal accommodations handled separately.”
+
+### Added (4)
+
+1. **Gatsby on Ross** — 4001 Ross Ave, Dallas 75204 (apartments, built 2018)  
+   - Official 2BR under $2,100: B2 1,112 sf from $1,899 (incl. #550 now); B2a 1,295 sf $2,049 now; B1 1,010 sf $1,656 on Jan 21, 2027. B4 from $2,235 is over the cap.  
+   - Counters: official granite or quartz; color not confirmed this pass.  
+   - Parking: community parking garage / garage lot (assigned parking listed at $50 on UMoveFree). Official amenities/FAQ pages do not itemize parking — confirm type and fee.  
+   - Aggregator special: up to 4 weeks free on select vacants, not itemized on official floor-plan/FAQ pages.  
+   - Sources: [official floor plans](https://www.gatsbyonross.com/floorplans), [gallery](https://www.gatsbyonross.com/photogallery).  
+   - Commute: ~17 min est. from 10.0 mi straight-line to Tower 909.
+
+2. **The Academic** — 3700 Ross Ave, Dallas 75204 (apartments, completed about 2021)  
+   - Official 2BR under $2,100: 1,072 sf $2,072–$2,083; 1,108 sf APT 266 $2,092. Official 6-level parking garage; resident parking complimentary, reserved for a fee.  
+   - Official granite; official kitchen photo shows speckled gray granite, not solid white. Official special: up to 6 weeks free when you look and lease the same day (eligibility unconfirmed).  
+   - Sources: [official apartments](https://theacademicdallas.com/apartments/), [amenities](https://theacademicdallas.com/amenities/).  
+   - Commute: ~17 min est. from 9.9 mi straight-line to Tower 909.
+
+3. **4600 Ross** — 4600 Ross Ave, Dallas 75204 (apartments, built 2019)  
+   - Official B1 2/2, 1,073–1,097 sf, from $2,013 (4 available). B2 and 3BR townhomes are over $2,100.  
+   - Official quartz (color not confirmed). Official controlled-access garage parking; private attached garages on select homes (not verified on the in-budget B1 rows).  
+   - Sources: [official floor plans](https://www.4600ross.com/floorplans), [FAQ](https://www.4600ross.com/faq).  
+   - Commute: ~18 min est. from 10.2 mi straight-line to Tower 909.
+
+4. **Camden Belmont** — 2500 Bennett Ave, Dallas 75206 (apartments and townhomes, built 2009)  
+   - Official Bleaker 2, 2/2, 1,081 sf, from $2,029–$2,039. Larger 2BR plans and the attached-garage townhomes were over $2,100.  
+   - Counters vary (renovated gray quartz; some Bleaker 2 rows list black or cream granite). Official gated parking garage; optional private/detached garages.  
+   - Sources: [official available apartments](https://www.camdenliving.com/apartments/dallas-tx/camden-belmont/available-apartments).  
+   - Commute: ~17 min est. from 9.6 mi straight-line to Tower 909.
+
+### Reviewed / not added
+- **Guest House / Townhomes on Bennett** (1500 Bennett Ave) — attached two-car garage and Arctic/white quartz, but current asks are about $2,700–$2,950 / $2,800, over $2,100.
+- **2018 Moser Townhomes** — attached private two-car garages, but current 2BR asks are about $3,969–$4,687.
+- **The Moser** (2103 Moser Ave) — garaged parking; listed 2BR asks $2,100 and $2,452. $2,100 is not under the cap.
+- **Apartments at M-Streets** (1925 Moser) — already mapped; surface-lot parking only, so it fails the garage filter.
+- **The Collection Townhomes** (Moser Ave) — attached two-car garages and quartz, but 2BR asks about $2,650–$3,754.
+- **Camden Henderson** (5222 Belmont, on Henderson) — rentable private garages and quartz, but official/current 2BR rows start about $2,509–$2,579, over $2,100.
+- **N Henderson townhomes** (145 / 312 N Henderson and similar) — attached two-car garages, but asks about $2,999–$3,750.
+- **Alexan Lower Greenville** — gated parking garage and townhomes, but 2BR/TH asks from about $3,277–$3,926.
+- **Ele Lower Greenville** — community parking garage, but 2BR plans start about $2,845.
+- **Magnolia on Matilda** — private/detached garages, but current 2BR asks about $2,465–$2,599.
+- **The Courtyards at Lower Greenville** — already mapped; parking lot only, and the 2BR is 651 sf.
+- Already-mapped nearby L pins were left in place (Macallan on Ross, ICON at Ross, Manchester State Thomas, Cityplace Heights, Park View on Cole). 111 S Henderson remains on the townhome layer.
+
+### White Rock Lake search (same garage + ≤$2,099 filter)
+No new pin was added around White Rock Lake, Lakewood, Casa Linda, East Lake Highlands, or Garland Rd. Already-mapped properties were not duplicated.
+- **Reserve at White Rock** (already mapped) — official amenities list a floor-level parking garage and private garages on select homes (typical of the townhome plans). The existing card was updated with that parking note only.
+- **Eastlake Residences** and **Magnolia at Lakewood** are already mapped (Eastlake: attached garages on select homes; Magnolia at Lakewood: reservable private garages / gated parking courts).
+- **Winsted at White Rock** (2210 Winsted Dr) — 2BR asks can be under $2,100, but official amenities list covered parking, not a parking garage.
+- **Residences at White Rock Lake** (9332 Beck Ave, built 1970) — assigned parking, no documented garage; older garden product.
+- **9428 Forest Hills Blvd** — 1951 2/1 duplex with an attached one-car garage at $1,600; skipped on quality/layout (one bath, 1950s duplex).
+- **Camden Greenville townhomes** — underground/attached garages, but official 2BR/TH starting asks are about $2,389+.
+
+
+### Notes
+- Coordinates are Nominatim results for the published street addresses, Nov 13, 2026.
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 (America/Chicago)
 
 Added five orange L listings at Trentin’s request (Eastlake Residences, Magnolia at Lakewood, Magnolia Galleria, Reserve at White Rock, and Elysian Heights). These asks are mostly above the older ≤$2,100 L-layer cap; the layer legend text was left unchanged. Prices, specials, and photos were re-checked Nov 13, 2026. Public pet lines state published policy only, plus “Assistance-animal accommodations handled separately.”
