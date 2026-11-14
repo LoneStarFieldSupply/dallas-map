@@ -678,5 +678,24 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-13",
     "linkType": "website"
   }
+,
+  "L2|Radius Turtle Creek": {
+    "gallery": "https://www.radiusturtlecreek.com/dallas/radius-turtle-creek/photos/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official photo gallery.",
+    "checked": "2026-11-13",
+    "linkType": "gallery"
+  },
+  "L2|The Fairmount at Oak Lawn": {
+    "gallery": "https://www.fairmountoaklawn.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  },
+  "L2|Gables Katy Trail": {
+    "gallery": "https://www.gables.com/community/528475",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  }
 
 };

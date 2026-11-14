@@ -1,5 +1,45 @@
 # L2 listings changelog
 
+## 2026-11-13 night (America/Chicago) — Radius Turtle Creek area
+
+Added Radius Turtle Creek at your request, then swept Turtle Creek, Oak Lawn, Cedar Springs, the Uptown edge, and Lemmon for 2BR communities priced within about ±$150 of Radius’s lowest advertised 2BR ($2,182, so roughly $2,032–$2,332). Parking was listed on cards when a source stated it, but it was not used as a filter for this pass.
+
+1. **Radius Turtle Creek** — 3604 Cedar Springs Road, Dallas 75219 (built 2001; about 164–165 units / 4 stories)  
+   - Official floor-plan listing: Highland Park 2/2, 1,247 sf, from $2,182 (wait list). Available now: Preston Hollow 2/2, 1,152 sf, from $2,265 on a 15-month term. Advertised rent is not all-in.  
+   - Granite/stone counters per directories (color not confirmed); official amenities do not name the stone.  
+   - Parking (as listed, not aerial-checked this pass): official complimentary parking, one standard space per leaseholder; directories and a 2016 acquisition article describe a below-grade two-level parking garage.  
+   - Sources: [official floor plans](https://www.radiusturtlecreek.com/dallas/radius-turtle-creek/conventional/), [amenities](https://www.radiusturtlecreek.com/dallas/radius-turtle-creek/amenities/), [photos](https://www.radiusturtlecreek.com/dallas/radius-turtle-creek/photos/).  
+   - Commute: ~15 min est. from 8.5 mi straight-line. Slightly over the $2,100 cap; added at your request.
+
+2. **The Fairmount at Oak Lawn** — 4210 Fairmount Street, Dallas 75219 (built 2015; about 368 units / 5 stories)  
+   - Official floor plans: B1 2/2, 1,028 sf, Total Monthly Leasing Price starting at $2,045 (base $1,977, 13-month). Official special: up to 6 weeks free on select homes.  
+   - Official granite and quartz counters (color not confirmed on standard homes); select upgraded interiors have marble-veined quartz.  
+   - Parking (as listed): official limited-access parking garage.  
+   - Sources: [official floor plans](https://www.fairmountoaklawn.com/floorplans), [amenities](https://www.fairmountoaklawn.com/amenities).  
+   - Commute: ~14 min est. from 8.0 mi straight-line. About 0.6 mi from Radius. Under $2,100 and within the similar-price window.
+
+3. **Gables Katy Trail** — 2821 Carlisle Street, Dallas 75204 (built 1986; about 157–158 units)  
+   - Official community page: 2BR Total Monthly Cost of Rental starting from $2,300.29. Directories/HAR list 2/2 plans at 931 and 956 sf.  
+   - Granite counters per directories (color not confirmed); official community page does not name the stone.  
+   - Parking (as listed): official unreserved parking included; directories describe a two-level resident parking garage.  
+   - Sources: [official community page](https://www.gables.com/community/528475), [official fees](https://www.gables.com/community/528475/fees).  
+   - Commute: ~16 min est. from 8.9 mi straight-line. About 0.5 mi from Radius. Within about $150 of Radius’s lowest advertised 2BR.
+
+### Checked and not added
+- **4123 Cedar Springs** — official 2BR totals from $1,942, more than $150 below Radius.  
+- **Park West** (3109 Douglas) — official 2BR from $1,863; some larger plans (B2 from $2,038, B5 from $2,273) fall in the window, but the community’s starting 2BR is below the similar-price range.  
+- **Villas at Katy Trail** — official B2 from $1,889.  
+- **Paréa Oak Lawn** and **Maverick Oak Lawn Townhomes** — official/locator 2BRs start well below the window.  
+- **The Dylan** (4533 Cedar Springs) — official 2BR totals from $2,444.  
+- **THIRTY377** — official about $2,380, a little above the +$150 line.  
+- **Griffis Oak Lawn** — official available 2BRs from $2,516 (Sylvestor 2BR was shown as unavailable).  
+- **Gallery at Turtle Creek** from about $2,512, **Windsor Turtle Creek** official totals from $3,045, **MAA Katy Trail** from about $2,830, **L2 Uptown** from about $2,765, and **The Alton** far above.  
+- Individual condo/unit rentals (for example on Rawlins, Reagan, Turtle Creek Blvd, Lomo Alto, and Holland) were not added as community pins.  
+- **4539 Cedar Springs** and other already-mapped nearby pins were left in place.
+
+### Notes
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 night (America/Chicago) — near-$2,100 garage adds
 
 Added two more garage-qualified 2BR communities after the cap was loosened to about $2,150 at your request. Official prices were re-checked this evening.
