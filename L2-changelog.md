@@ -1,5 +1,31 @@
 # L2 listings changelog
 
+## 2026-11-13 night (America/Chicago) — visual garage re-check
+
+Built an internal candidate list of 2+ bedroom apartments and townhomes under $2,100 across Ross, Bennett, Moser, Henderson, Greenville, White Rock Lake, and Midtown/The Sevens, then checked each one on Esri World Imagery aerials (Google Maps Static API returned 403 without a key). Apartments needed a visible community / structured / podium / wrap parking garage; townhomes could pass with a private or attached garage. The scored candidate list and Esri aerials were kept as an internal working file, not published on the map.
+
+### Added (1)
+1. **The Nash** — 8213 Meadow Rd, Dallas 75231 (apartments and some townhomes; Phase I 2018, Phase II Spring 2023)  
+   - RentCafe 2BR from $1,900 (1,051–1,107 sf) and $1,965 (1,183 sf available now).  
+   - Official granite and quartz counters (color not confirmed).  
+   - Parking type: official gated / resident parking garage (visually confirmed on Esri aerial). Reserved garage $150/mo and reserved covered $50/mo per the resident-access page.  
+   - Sources: [official floor plans](https://www.thenashapt.com/floor-plans), [amenities](https://www.thenashapt.com/amenities), [RentCafe](https://www.rentcafe.com/apartments/tx/dallas/the-nash0/default.aspx).  
+   - Commute: ~18 min est. from 10.1 mi straight-line to Tower 909. About 0.12 mi from The Sevens.
+
+### Existing cards updated
+- **Gatsby on Ross** — parking garage (visually confirmed). Esri aerial shows a mid-rise wrap/podium with a structured parking deck. Official site still does not itemize parking.
+- **Magnolia at Lakewood** — not a community parking garage (visually confirmed). Esri aerial shows parking courts along the walk-up buildings; official amenities are gated parking courts and reservable private garages. Card was updated, not removed.
+
+### Reviewed / not added after the imagery pass
+Close mid-rises that visually have a parking garage but are over $2,100 on official/current 2BR asks: The Lookout (deck parking clearly visible; official from $2,296), MAA Cathedral Arts (from ~$2,128), Larq Henderson (from ~$2,355), The Barton (from $2,485; a stale aggregator had $1,995), Luxia Midtown Park (official total monthly $2,132).
+- **Domain at Midtown Park** — official 2BR totals from $1,865 are under the cap, but the official FAQ lists free open parking and paid carports, and the aerial shows surface lots at Domain; the large podium garage in the same frame appears to be neighboring Luxia.
+- **Everra Midtown Park**, **Winsted at White Rock**, and **Residences at White Rock Lake** — under $2,100, but aerials show surface/covered lots, not a community parking garage.
+- **Fair Oaks Townhomes** and the Casa Linda duplexes pass as townhomes with private/attached garages but were left off on quality/age.
+
+### Notes
+- Google Maps satellite tiles could not be fetched (Static API 403). Verdicts use Esri World Imagery aerials reviewed this pass.
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 parking-rule re-audit (America/Chicago) — Ross / Bennett / Moser / Henderson / Greenville / White Rock
 
 Re-ran tonight’s area searches after the parking rule was corrected: apartments qualify only with a community / shared parking garage; townhomes qualify with a private or attached garage. Also 2+ bedrooms, under $2,100, newer/quality preferred. Existing pins were audited, not removed. No new pin was added.

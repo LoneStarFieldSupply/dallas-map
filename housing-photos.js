@@ -625,5 +625,12 @@ window.HOUSING_PHOTOS={
       "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official photo gallery.",
       "checked": "2026-11-13",
       "linkType": "gallery"
-    }
+    },
+  "L2|The Nash": {
+    "gallery": "https://www.thenashapt.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  }
+
 };
