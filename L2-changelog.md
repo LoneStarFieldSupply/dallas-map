@@ -1,5 +1,62 @@
 # L2 listings changelog
 
+## 2026-11-14 (America/Chicago) — Legacy West area, Saturday tour pass
+
+Added Legacy-area 2BR matches at or under the $2,200 apartment cap after you said you would not pay over $2,200 for an apartment (townhomes may go higher). Parking is noted from listings but was not used as a filter. Tour hours below are for Saturday, Nov 14, 2026.
+
+1. **Cortland West Plano** — 8205 Towne Main Drive, Plano 75024 (built 2003)  
+   - Official all-in: Princeton 2/1 from $1,927 available now; Celina 2/2, 1,008 sf, from $2,047 available now.  
+   - Granite on select (color not confirmed). Private attached/detached garages available.  
+   - Office open today 10 AM–5 PM. [Available apartments](https://cortland.com/apartments/cortland-west-plano/available-apartments/)
+
+2. **Cortland Legacy** — 5275 Town and Country Boulevard, Frisco 75034 (built 2014; The Star / Legacy Commons)  
+   - Official all-in: Hall Park 2/2, 1,045 sf, from $1,929 (Nov 28); Legacy West 2/2, 1,166 sf, from $2,069 (Nov 18).  
+   - Official granite (color not confirmed). Official limited-access parking garage.  
+   - Office open today 10 AM–5 PM. [Available apartments](https://cortland.com/apartments/cortland-legacy/available-apartments/)
+
+3. **Legacy Village Apartment Homes** — 7001 Parkwood Boulevard, Plano 75024 (built 2007; in the Shops at Legacy)  
+   - Official 2BR from $1,529 (interactive map also showed from $1,543). Directories: Castello/Florence 2/2, 957–1,083 sf, units available now.  
+   - Official specials through Nov 19 (12-month): up to 6 weeks off, one month off, or $400–$600 off the first month, depending on the home.  
+   - Official granite or quartz (color not confirmed). Official parking garage.  
+   - Office open today 10 AM–5 PM. [Official site](https://www.udr.com/dallas-apartments/plano/legacy-village-apartment-homes/)
+
+4. **Camden Legacy Park** — 6600 Preston Road, Plano 75024 (built 1996)  
+   - Official: B1 2/2, 985 sf, from $1,919 (Dec 30); B2 989 sf from $1,939 (Dec 10); 1,070 sf from $1,969. Trash/tech included in the total monthly rent.  
+   - Remodeled kitchens listed with white quartz; attached private garage in every home.  
+   - Office hours listed Saturday 10 AM–5 PM. [Available apartments](https://www.camdenliving.com/apartments/plano-tx/camden-legacy-park/available-apartments)
+
+5. **Villas at Legacy** — 5301 West Spring Creek Parkway, Plano 75024 (built 1999)  
+   - Official B4 2/2, 1,189 sf, total from $2,176.49 (15-month). B3 from $2,285.49 is over the apartment cap.  
+   - Granite per directories. Garages listed by directories.  
+   - Office hours listed Saturday 10 AM–5 PM. [Floor plans](https://villasatlegacy-plano.com/floorplans)
+
+6. **Creekside at Legacy** — 6300 Windcrest Drive, Plano 75024 (built 1997)  
+   - Official floor-plans page did not display rents. HAR: 2/1 from $2,027; 2/2, 1,218 sf, from $2,155.  
+   - Official attached/detached garages. Counter material not named on the official site.  
+   - Office open today 10 AM–5 PM. [Floor plans](https://www.creeksideatlegacy.com/apartments/tx/plano/floor-plans)
+
+7. **Windsor West Plano** — 2100 Legacy Drive, Plano 75023 (built 2023)  
+   - Official 2BR totals from $2,192. Official townhome 2BRs at this community start higher (directories/HAR about $2,559–$3,458) and were listed, not separately pinned.  
+   - Official granite. Official parking garage; townhomes have private attached garages.  
+   - Office hours listed Saturday 10 AM–5 PM. [Official site](https://www.windsorcommunities.com/properties/windsor-west-plano/)
+
+### Already on the map in this area
+Legacy North, MAA Legacy (official 2BR from $1,765 this morning), Windsor Metro West, and Windsor Preston were left in place.
+
+### Townhomes over $2,200 (listed, not added unless at or under about $2,400)
+- **Windsor West Plano townhomes** — directories/HAR 2BR townhomes from about $2,559–$3,458 with private attached garages; over the ~$2,400 map window.  
+- **LVL29 at Legacy West** — official TH-1 2/2.5, 1,454 sf, from $5,149; TH-2 1,838 sf. Far over.
+
+### Checked and not added (apartments over $2,200, 55+, or unclear all-in)
+- Core Legacy West luxury is well over the apartment cap: **The Grand at Legacy West** official 2BR from $2,625, **LVL29** from $3,268, **Instrata at Legacy West** from about $3,947.  
+- **Domain at The Gate**, **Cadence at Frisco Station**, **Bexley Frisco Station**, **SkyHouse Frisco Station**, and **Legacy Estates at Frisco** (official all-in from $2,285) start above $2,200.  
+- **Windsor at Legacy** (6400 Windcrest) official totals were not clearly posted; directories show 2BR base from $2,111, so all-in may exceed $2,200. Official quartz. Office Saturday 10 AM–5 PM if you want to confirm.  
+- **Mariposa at Communications Parkway** and **McDermott 55 / McDermott Crossing** are 55+ communities.  
+- **AMLI West Plano** is on Parker Road (75093), outside the Legacy area for this pass.
+
+### Notes
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-14 (America/Chicago) — daily update
 
 Daily sweep of the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas and nearby areas. I searched apartments and townhomes, gyms, and independent supplement stores. Housing rules: 2BR, about 1,100 sf or more, an actual unit or floor-plan price of $2,100 or less, and a community parking garage (or a private/attached garage for townhomes). Quality had to match the selected listings. The cap was not raised. Aerials stayed internal working files.

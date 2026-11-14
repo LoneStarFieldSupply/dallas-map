@@ -717,5 +717,48 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-14",
     "linkType": "gallery"
   }
+,
+  "L2|Cortland West Plano": {
+    "gallery": "https://cortland.com/apartments/cortland-west-plano/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-14",
+    "linkType": "website"
+  },
+  "L2|Cortland Legacy": {
+    "gallery": "https://cortland.com/apartments/cortland-legacy/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-14",
+    "linkType": "website"
+  },
+  "L2|Legacy Village Apartment Homes": {
+    "gallery": "https://www.udr.com/dallas-apartments/plano/legacy-village-apartment-homes/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-14",
+    "linkType": "website"
+  },
+  "L2|Camden Legacy Park": {
+    "gallery": "https://www.camdenliving.com/apartments/plano-tx/camden-legacy-park",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-14",
+    "linkType": "website"
+  },
+  "L2|Villas at Legacy": {
+    "gallery": "https://villasatlegacy-plano.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-14",
+    "linkType": "website"
+  },
+  "L2|Creekside at Legacy": {
+    "gallery": "https://www.creeksideatlegacy.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-14",
+    "linkType": "website"
+  },
+  "L2|Windsor West Plano": {
+    "gallery": "https://www.windsorcommunities.com/properties/windsor-west-plano/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-14",
+    "linkType": "website"
+  }
 
 };
