@@ -1,5 +1,30 @@
 # L2 listings changelog
 
+## 2026-11-13 night (America/Chicago) — near-$2,100 garage adds
+
+Added two more garage-qualified 2BR communities after the cap was loosened to about $2,150 at your request. Official prices were re-checked this evening.
+
+1. **Shoreview Flats** — 10151 Shoreview Road, Dallas 75238 (built 2020; about 235 units / 4 stories)  
+   - Official floor plans: B1 2/2, 962 sf, Total Monthly Leasing Price $2,128 (base $2,090, 10-month). Official totals include mandatory monthly fees. Larger 2BR totals start at $2,216.  
+   - Official granite counters in Surf White.  
+   - Parking type: parking garage (visually confirmed on Esri aerial; official enclosed resident garage).  
+   - Sources: [official floor plans](https://shoreviewdallas.com/floorplans/), [amenities](https://shoreviewdallas.com/amenities/), [FAQ](https://shoreviewdallas.com/faqs/).  
+   - Commute: ~23 min est. from 13.0 mi straight-line. Slightly over the $2,100 cap; added at your request.
+
+2. **Modena** — 8275 Walnut Hill Lane, Dallas 75231 (built 2016; about 230 units / 5 stories)  
+   - Official floor plans: B1.1 1,093 sf and B1.3 1,202 sf starting at $1,950, available now (under $2,100). Earlier aggregator figures of about $2,110–$2,310 were higher than this official starting rent. Advertised rent is not all-in.  
+   - Granite counters per Apartments.com (color not confirmed); official amenities describe chef-style kitchens but do not name the stone.  
+   - Parking type: parking garage (visually confirmed on Esri aerial; official amenities list garage parking and reserved parking).  
+   - Sources: [official floor plans](https://www.modenadallas.com/floorplans/), [amenities](https://www.modenadallas.com/amenities/).  
+   - Commute: ~18 min est. from 10.0 mi straight-line. About 0.3 mi from The Sevens.
+
+### Checked and still not added
+- **LENOX Lake Highlands** — official parking is a surface lot plus optional reserved garages ($200/mo) and carports, not a community parking garage. Official 2BR totals now start at $2,168.  
+- **The Lookout** remains official from $2,296, and **Renaissance at Preston Hollow** from about $2,211, both above the ~$2,150 window.
+
+### Notes
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 night (America/Chicago) — Greenville-to-635 ZIP sweep, Belclaire added
 
 Continued the broader ZIP sweep of the Greenville Ave corridor from Ross to I-635 (75206, 75214, 75231, 75238, 75243, 75225, 75230) and the remaining requested areas (75204, 75246, 75218, 75228). Apartments.com search pages returned 403 and Apartment List ZIP pages did not paginate in the scraper, so this pass used official sites plus Apartment List neighborhood pages, RentCafe, HAR, Realtor.com, and UMoveFree. Apartments still needed a visible community parking garage; townhomes could pass with a private or attached garage. Pre-1990 low-quality product was not added even when a private garage existed.

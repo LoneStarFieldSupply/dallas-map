@@ -665,5 +665,18 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-13",
     "linkType": "website"
   }
+,
+  "L2|Shoreview Flats": {
+    "gallery": "https://shoreviewdallas.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  },
+  "L2|Modena": {
+    "gallery": "https://www.modenadallas.com/",
+    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
+    "checked": "2026-11-13",
+    "linkType": "website"
+  }
 
 };
