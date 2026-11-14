@@ -1,5 +1,51 @@
 # L2 listings changelog
 
+## 2026-11-13 (America/Chicago)
+
+Added five orange L listings at Trentin’s request (Eastlake Residences, Magnolia at Lakewood, Magnolia Galleria, Reserve at White Rock, and Elysian Heights). These asks are mostly above the older ≤$2,100 L-layer cap; the layer legend text was left unchanged. Prices, specials, and photos were re-checked Nov 13, 2026. Public pet lines state published policy only, plus “Assistance-animal accommodations handled separately.”
+
+### Added (5)
+
+1. **Eastlake Residences** — 10030 Garland Rd, Dallas 75218 (townhomes, built 2023)  
+   - Official B1 2/2, 1,294 sf, from $2,299 with 5 units. Unit rows: #0203 $2,299 (ready Nov 4); #2203 $2,399 (ready since June 5, 2026); later B1 rows $2,599 in December and January.  
+   - Apartment List/Zillow advertise 6 weeks free on select terms; official unit rows only say Call for Specials, so a ~$2,034 net-effective figure is not treated as confirmed.  
+   - Quartz counters; official gallery kitchens show white quartz, but the color name is not published.  
+   - Pets: max 2; official fees $300 + $300 deposit + $20/mo; breed restrictions; no weight limit stated on the amenities page. Assistance-animal accommodations handled separately.  
+   - Sources: [official floor plans](https://eastlakeresidences.com/floorplan/), [gallery](https://eastlakeresidences.com/gallery/).  
+   - Commute: ~25 min est. from 14.1 mi straight-line to Tower 909.
+
+2. **Magnolia at Lakewood** — 2175 Tucker St, Dallas 75214 (apartment, not a townhome; built 2017)  
+   - Apartment List: two 2BR units at $2,357 and $3,379 (higher unit previously $3,540). Official site does not list unit rents. No official special found.  
+   - Official granite counters; gallery kitchens show speckled gray granite — white counters are not confirmed. Near the White Rock Trail.  
+   - Pets: max 2; community copy says no breed or weight restrictions; fees not published on the pages checked. Assistance-animal accommodations handled separately.  
+   - Sources: [official site](https://www.liveatmagnolia.com/homes/tx/dallas/magnolia-at-lakewood/), [Apartment List](https://www.apartmentlist.com/tx/dallas/magnolia-at-lakewood).  
+   - Commute: ~22 min est. from 12.4 mi straight-line to Tower 909.
+
+3. **Magnolia Galleria** — 13701 Montfort Dr, Dallas 75240 (apartments, built 2023, 171 units)  
+   - Apartment List: six 2BR units from $2,250–$2,499, each cut from a higher prior ask ($2,405–$2,710). Official special: up to 12 weeks free on select apartments, terms apply; 2BR eligibility unconfirmed, so a ~$1,731 net-effective figure is not treated as confirmed.  
+   - Official granite counters; gallery kitchens show speckled light granite — white counters are not confirmed.  
+   - Pets: pet friendly, max 2; community copy says no breed or weight restrictions; fees not published on the pages checked. Assistance-animal accommodations handled separately.  
+   - Sources: [official site](https://www.liveatmagnolia.com/homes/tx/dallas/magnolia-galleria/), [Apartment List](https://www.apartmentlist.com/tx/dallas/magnolia-galleria).  
+   - Commute: ~15 min est. from 8.4 mi straight-line to Tower 909.
+
+4. **Reserve at White Rock** — 9215 Garland Rd, Dallas 75218 (townhomes and apartments, built 1999)  
+   - Official B2 TH 2/2.5, 1,432 sf, from $2,174. B3 2/2 1,303 sf from $2,043 is not labeled as a townhome on the official floor-plan page. B1 TH had no price shown.  
+   - Granite counters on select homes (not white). No official concession itemized. Official gallery photos were not reused this pass (no safely verified image URL).  
+   - Pets: official amenities, max 2, $35/mo and $300 deposit, listed breed restrictions, no weight limit stated. Assistance-animal accommodations handled separately.  
+   - Sources: [official floor plans](https://www.reserveatwhiterock.com/floorplans), [amenities](https://www.reserveatwhiterock.com/amenities), [gallery](https://www.reserveatwhiterock.com/photogallery).  
+   - Commute: ~24 min est. from 13.5 mi straight-line to Tower 909.
+
+5. **Elysian Heights** — 1518 N Carroll Ave, Dallas 75204 (20 townhomes, built 2019)  
+   - Labeled as a negotiation target with a $2,199 goal. Unit-level ask $2,299 (Apartment List; RentCafe unit 101 available Dec 18; Sunny the same day). Official floor-plan start is still $2,399. No official concession listed Nov 13.  
+   - Official amenities confirm Arctic White quartz (white counters confirmed in writing). Two-car private garages. Official gallery photos were not reused this pass (no safely verified image URL).  
+   - Pets: Apartments.com policy, max 2, 25 lb limit, $500 deposit and $50/mo, breed restrictions. Assistance-animal accommodations handled separately.  
+   - Sources: [official floor plans](https://www.elysianheightsapts.com/floorplans), [amenities](https://www.elysianheightsapts.com/amenities), [gallery](https://www.elysianheightsapts.com/photogallery).  
+   - Commute: ~18 min est. from 10.2 mi straight-line to Tower 909.
+
+### Notes
+- Coordinates are Nominatim results for the published street addresses, Nov 13, 2026.
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-12 (America/Chicago)
 
 No housing card was added. One walk-in gym was added. No supplement store was added. Nothing already on the map was removed.

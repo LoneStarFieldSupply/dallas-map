@@ -543,5 +543,47 @@ window.HOUSING_PHOTOS={
     "linkType": "website",
     "credit": "Heritage at Valley Ranch",
     "checked": "2026-11-07"
+  },
+  "L2|Eastlake Residences": {
+    "src": "https://eastlakeresidences.com/wp-content/uploads/2026/08/00ef45be3360a1360b18f285d1c4968a18f8cf23.jpg",
+    "alt": "Eastlake Residences model kitchen and living area with a white quartz island",
+    "kind": "model",
+    "caption": "Model/community interior, not a specific unit. Official gallery photo shows white quartz; the color name is not published.",
+    "gallery": "https://eastlakeresidences.com/gallery/",
+    "linkType": "gallery",
+    "credit": "Eastlake Residences",
+    "checked": "2026-11-13"
+  },
+  "L2|Magnolia at Lakewood": {
+    "src": "https://www.liveatmagnolia.com/wp-content/uploads/2026/05/2-web-or-mls-Untitled-Album-75-of-105.jpg",
+    "alt": "Magnolia at Lakewood model kitchen with speckled gray granite counters",
+    "kind": "model",
+    "caption": "Model/community kitchen, not a specific unit. Official photo shows speckled gray granite, not solid white.",
+    "gallery": "https://www.liveatmagnolia.com/homes/tx/dallas/magnolia-at-lakewood/",
+    "linkType": "website",
+    "credit": "Magnolia at Lakewood",
+    "checked": "2026-11-13"
+  },
+  "L2|Magnolia Galleria": {
+    "src": "https://www.liveatmagnolia.com/wp-content/uploads/2026/06/magnolia-galleria-showcase-02.jpg",
+    "alt": "Magnolia Galleria model kitchen with speckled light granite counters",
+    "kind": "model",
+    "caption": "Model/community kitchen, not a specific unit. Official photo shows speckled light granite, not solid white.",
+    "gallery": "https://www.liveatmagnolia.com/homes/tx/dallas/magnolia-galleria/",
+    "linkType": "website",
+    "credit": "Magnolia Galleria",
+    "checked": "2026-11-13"
+  },
+  "L2|Reserve at White Rock": {
+    "gallery": "https://www.reserveatwhiterock.com/photogallery",
+    "note": "No safely reusable official photo was verified this pass. The mapped source is the official photo gallery.",
+    "checked": "2026-11-13",
+    "linkType": "gallery"
+  },
+  "L2|Elysian Heights": {
+    "gallery": "https://www.elysianheightsapts.com/photogallery",
+    "note": "No safely reusable official photo was verified this pass. The mapped source is the official photo gallery (32 photos).",
+    "checked": "2026-11-13",
+    "linkType": "gallery"
   }
 };
