@@ -613,5 +613,17 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-13",
     "linkType": "website"
-  }
+  },
+  "L2|The Sevens": {
+      "gallery": "https://www.sevensapts.com/tx/dallas/photogallery",
+      "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official photo gallery.",
+      "checked": "2026-11-13",
+      "linkType": "gallery"
+    },
+  "L2|The Mark at Midtown": {
+      "gallery": "https://www.themarkdallas.com/photogallery",
+      "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official photo gallery.",
+      "checked": "2026-11-13",
+      "linkType": "gallery"
+    }
 };

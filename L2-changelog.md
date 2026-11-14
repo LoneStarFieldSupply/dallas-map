@@ -1,5 +1,36 @@
 # L2 listings changelog
 
+## 2026-11-13 late evening (America/Chicago) — The Sevens and Midtown Park
+
+Added **The Sevens** (requested) plus one nearby orange L listing. Nearby filter: 2+ bedrooms, under $2,100, apartments only with a community / shared parking garage, townhomes allowed with a private or attached garage. Public pet lines state published policy only, plus “Assistance-animal accommodations handled separately.”
+
+### Added (2)
+
+1. **The Sevens** — 7777 Manderville Lane, Dallas 75231 (apartments, new construction completed 2024; official site markets it as brand new)  
+   - Added regardless of price and parking, as requested. This is the Fairfield / sevensapts.com community in Vickery Meadow / Midtown Park (marketed as Preston Hollow). No other Dallas “Sevens” community was found.  
+   - Official 2BR: B1 Essential Living 1,064 sf $2,095–$2,610; B2 1,139 sf $2,343–$2,919; B5D 1,328 sf $2,485–$2,536.  
+   - Counters: official polished quartz (Charcoal or Haze packages); color not confirmed, white not confirmed.  
+   - Parking type: official amenities list a parking garage (community parking garage). Reserved-space fees were not itemized on official floor-plan/amenities pages.  
+   - Sources: [official floor plans](https://www.sevensapts.com/tx/dallas/floorplans), [amenities](https://www.sevensapts.com/tx/dallas/amenities), [gallery](https://www.sevensapts.com/tx/dallas/photogallery).  
+   - Commute: ~17 min est. from 9.9 mi straight-line to Tower 909.
+
+2. **The Mark at Midtown** — 10550 N Central Expy, Dallas 75231 (apartments, built 2017)  
+   - About 0.30 mi from The Sevens. Official B1 2/2, 1,069–1,082 sf, from $1,930, 4 available. B2 from $2,211 is over $2,100.  
+   - Counters: official white quartz (confirmed).  
+   - Parking type: official FAQ describes a gate-controlled parking garage with reserved parking inside the garage (community parking garage). A parking fee was not itemized on official FAQ/amenities pages. Official leasing-offers page showed no current specials.  
+   - Sources: [official floor plans](https://www.themarkdallas.com/floorplans), [amenities](https://www.themarkdallas.com/amenities), [FAQ](https://www.themarkdallas.com/faq), [gallery](https://www.themarkdallas.com/photogallery).  
+   - Commute: ~17 min est. from 9.7 mi straight-line to Tower 909.
+
+### Reviewed / not added (within about 1–1.5 miles)
+- **Luxia Midtown Park** (8107 Manderville Lane, 0.33 mi) — official parking garage, official granite counters. Official floor plans show B1/B4 base rent $2,067 but a total monthly leasing price of $2,132 including mandatory fees, which is over $2,100, so it was not added.
+- **Everra Midtown Park** (8250 Meadow Rd, 0.08 mi) — 2BR official asks from about $1,927–$2,085 can be under $2,100, but official amenities list covered parking and breezeway garages, not a community parking garage. Apartment, so it fails the garage rule.
+- **Fair Oaks Townhomes / Fair Oaks Manor** (7474 Fair Oaks Ave, 1.02 mi) — townhomes/condos with attached one-car garages and granite counters, MLS asks about $1,475–$1,695. Skipped on quality/age (1986, 14-unit independently managed product, individual MLS listings; pet notes conflict across sources).
+- **Legacy Midtown Park** (8240 Manderville Lane, 0.43 mi) — community parking garage, but it is a senior-living community and was not treated as a standard 2BR apartment/townhome match.
+
+### Notes
+- Coordinates are Nominatim results for the published street addresses, Nov 13, 2026.
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 evening (America/Chicago) — Ross / Bennett / Moser / Henderson / Greenville
 
 Added four orange L listings from a search of Ross Ave, Bennett Ave, Moser Ave, Henderson Ave, and Greenville Ave. Filter: 2+ bedrooms, under $2,100, garage parking only (parking garage, structured/covered garage, or attached/private garage). Public pet lines state published policy only, plus “Assistance-animal accommodations handled separately.”
