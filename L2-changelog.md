@@ -1,5 +1,32 @@
 # L2 listings changelog
 
+## 2026-11-13 parking-rule re-audit (America/Chicago) — Ross / Bennett / Moser / Henderson / Greenville / White Rock
+
+Re-ran tonight’s area searches after the parking rule was corrected: apartments qualify only with a community / shared parking garage; townhomes qualify with a private or attached garage. Also 2+ bedrooms, under $2,100, newer/quality preferred. Existing pins were audited, not removed. No new pin was added.
+
+### Audit of existing cards (not removed)
+Apartments that lack a confirmed community parking garage:
+- **Magnolia at Lakewood** (apartment) — official amenities list gated parking courts and reservable private garages, not a community parking garage.
+
+Apartments whose community garage is not confirmed on the official site:
+- **Gatsby on Ross** (apartment) — official amenities and FAQ pages do not itemize parking. UMoveFree lists a community parking garage with assigned parking at $50; Sunny describes a garage lot, unassigned. Left on the map; confirm the garage type with leasing.
+
+Apartments with a confirmed community parking garage: The Academic (official 6-level garage), 4600 Ross (official controlled-access garage parking), Camden Belmont (official gated parking garage), Magnolia Galleria (official gated parking garage), The Sevens (official parking garage), The Mark at Midtown (official gate-controlled parking garage).
+
+Townhomes that already fit the private/attached-garage rule: Eastlake Residences (attached garages on select homes), Reserve at White Rock (private garages on select / townhome plans, plus a floor-level parking garage), Elysian Heights (two-car private garages).
+
+### Re-search — reviewed / not added
+No newly qualifying 2BR under $2,100 was found in Ross Ave (around Gatsby), Bennett Ave, Moser Ave, Henderson Ave, Greenville Ave, or around White Rock Lake (Lakewood, Casa Linda, East Lake Highlands, Garland Rd).
+- **Ross + Peak** (4302 Ross Ave, near Gatsby) — official/community parking garage, but official 2BR starts about $2,169.
+- **MAA Cathedral Arts** (5088 Ross Ave) — official multi-level parking garage, but official 2BR starts about $2,128.
+- **Bell Knox District** (3030 Hester Ave, near Henderson/Knox) — garage parking with elevator access, but 2BR asks start well over $2,100.
+- Townhomes already reviewed as over $2,100 remain over: Guest House on Bennett, 2018 Moser Townhomes, The Collection Townhomes, The Moser (asks $2,100 and $2,452 — $2,100 is not under the cap), Camden Henderson, N Henderson townhomes, Camden Greenville townhomes, Alexan / Ele Lower Greenville, Magnolia on Matilda, Lakewood Flats townhomes (attached garages, from about $2,825).
+- **Winsted at White Rock** — some 2BR and townhome asks can be under $2,100, but official amenities list covered parking only (no confirmed community parking garage and no confirmed private/attached townhome garage).
+- **Fair Oaks Townhomes** and older one-off Lakewood/Casa Linda listings were left off on quality/age or because they sit outside these search streets.
+
+### Notes
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 late evening (America/Chicago) — The Sevens and Midtown Park
 
 Added **The Sevens** (requested) plus one nearby orange L listing. Nearby filter: 2+ bedrooms, under $2,100, apartments only with a community / shared parking garage, townhomes allowed with a private or attached garage. Public pet lines state published policy only, plus “Assistance-animal accommodations handled separately.”
