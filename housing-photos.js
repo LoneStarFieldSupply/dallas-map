@@ -696,6 +696,26 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-13",
     "linkType": "website"
+  },
+  "L2|Station at Old Town": {
+    "src": "https://resource.rentcafe.com/image/upload/q_auto,f_auto,c_limit,w_510/s3/2/8113/stationoldtown_pooldeck%201(1).jpg",
+    "alt": "Station at Old Town pool deck and four-story apartment building",
+    "kind": "community",
+    "caption": "Community photo, not a specific unit",
+    "gallery": "https://www.stationatoldtown.com/photogallery",
+    "credit": "Station at Old Town",
+    "checked": "2026-11-14",
+    "linkType": "gallery"
+  },
+  "L2|Windsor Preston": {
+    "src": "https://cdn.rentcafe.com/dmslivecafe/2/70135/62ModelHomes_P498_WindsorPreston.jpg",
+    "alt": "Windsor Preston model kitchen with white cabinets, quartz counters and stainless appliances",
+    "kind": "model",
+    "caption": "Model photo, not a specific available unit",
+    "gallery": "https://www.windsorcommunities.com/properties/windsor-preston/gallery/",
+    "credit": "Windsor Preston",
+    "checked": "2026-11-14",
+    "linkType": "gallery"
   }
 
 };

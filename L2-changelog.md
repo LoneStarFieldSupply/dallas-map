@@ -1,5 +1,72 @@
 # L2 listings changelog
 
+## 2026-11-14 (America/Chicago) — daily update
+
+Daily sweep of the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas and nearby areas. I searched apartments and townhomes, gyms, and independent supplement stores. Housing rules: 2BR, about 1,100 sf or more, an actual unit or floor-plan price of $2,100 or less, and a community parking garage (or a private/attached garage for townhomes). Quality had to match the selected listings. The cap was not raised. Aerials stayed internal working files.
+
+### Added (orange L)
+1. **Station at Old Town** — 502 E College St, Lewisville 75057 (built 2021, formerly Aura Old Town; about 286 units / 4 stories; Fogelman)  
+   - Official B2 unit rows (2/2, 1,174 sf; totals include about $53/mo of required monthly fees):  
+     - #380: $2,044 total (base $1,991, 13-month), available Jan 7, 2027. This is the only listed unit with confirmed January availability.  
+     - #186: $2,058 total (base $2,005, 11-month), available now.  
+     - #280: $2,091, available Nov 16.  
+     - #480 and #473: $2,093.  
+   - Special: no rent until Feb 1, 2027 if you move in by Nov 25 (select homes/terms). That does not fit a January move.  
+   - Garage space cost was not verified.  
+   - Parking type: parking garage. The official amenities list a multi-level parking garage with elevator, and the structured deck inside the wrap building is visually confirmed on the Esri aerial.  
+   - Quality: current official/listing photos show two-tone flat-panel cabinets, light granite, tile backsplash, wood-style floors, a frameless glass shower and a walk-in closet. This is a 2021 build at the level of the selected listings.  
+   - Reviews: about 3.6/5 (≈140 reviews) and 4.0/5 on RentCafe. Maintenance is described as responsive; upkeep/hallway cleanliness is mixed and the garage is described as tight. These are noted on the card.  
+   - Pets: max 2, $350 one-time, $25/mo per pet; a breed list applies. Assistance-animal accommodations are handled separately.  
+   - Pin: Nominatim result for 502 E College St, 33.0491378, -96.9890508. Reverse geocode names 502 East College Street. The point is an address point on College St at the building's northwest corner. Esri's PointAddress for 502 is about 15 m away.  
+   - Photo: official pool-deck community photo, not a specific unit.  
+   - Sources: [official B2 plan](https://www.stationatoldtown.com/floorplans/b2), [amenities](https://www.stationatoldtown.com/amenities), [photo gallery](https://www.stationatoldtown.com/photogallery).  
+   - Commute: ~22 min est. from 12.8 mi straight-line.  
+   - Reason: a newer garage community under the cap with a confirmed January unit and current official finishes.  
+2. **Windsor Preston** — 7950 Preston Road, Plano 75024 (built 2019, formerly Alta 289; about 288 units / 4 stories; Windsor Communities)  
+   - Official availability: B3 #1050, 2/2, 1,143 sf, first floor.  
+     - $2,035 Total Monthly Leasing Price (base $1,927 + $108 mandatory monthly fees), 9-month term, available Jan 26, 2027.  
+     - No unit special is listed.  
+   - Costs overview: garage parking is optional at $35/mo unreserved (about $2,070 with it) or $50/mo reserved. Pet fee $500 and pet rent $40/mo per pet.  
+   - B4 #1045 (1,198 sf) is $2,163 total and over the cap.  
+   - Parking type: parking garage. The official site lists a multi-level parking garage with direct access to temperature-controlled corridors, and the wrap garage deck is visually confirmed on the Esri aerial.  
+   - Quality: official quartz counters with patterned tile backsplash, white shaker cabinets, Energy Star stainless appliances, frameless glass showers (select) and a 4.1/5 rating on the official site.  
+   - Walk Score 65 and Transit Score 26 per Apartment List.  
+   - Pin: Esri PointAddress for 7950 Preston Rd, 33.0851008, -96.80256. It lands on the property's OSM parking structure and Esri reverse-geocodes to 7950 Preston Rd. The Nominatim hit (33.0848059, -96.8036299) is an interpolated point on the Preston Rd centerline about 100 m west, so it was not used.  
+   - Photo: official model kitchen, not unit #1050.  
+   - Sources: [official floor plans/availability and costs overview](https://www.windsorcommunities.com/properties/windsor-preston/floorplans/), [official site](https://www.windsorpreston.com/), [gallery](https://www.windsorcommunities.com/properties/windsor-preston/gallery/), [Apartment List](https://www.apartmentlist.com/tx/plano/windsor-preston).  
+   - Commute: ~29 min est. from 16.8 mi straight-line.  
+   - Reason: a 2019 garage community with quartz finishes and a sub-cap 2BR available in late January.
+
+### Checked and not added (housing)
+- **The Louis Las Colinas** (871 Lake Carolyn): the cheapest ≥1,100 sf 2BR (B4 #393) is $2,234.77 total including $150.77 of mandatory fees. Over the cap.
+- **Alesio Urban Center** (385 E Las Colinas Blvd): it passes the hard filters. Bella Tower VI #0273 is 1,225 sf at $1,805, plus about $114.80/mo in fixed fees and a $75 garage charge, and two decks are confirmed on the aerial. It was rejected on maintenance quality: about a 3.4/5 rating, with reviews citing roaches, water damage and slow maintenance.
+- **Allura Las Colinas**: official B1 (1,200 sf) is $2,195. Lower Rent.com figures were not corroborated by the official site.
+- **AMLI Campion Trail**: C6 (1,211 sf) is $2,535.50 total. C4 is under 1,100 sf, and C5/C5G (attached garage) had no availability.
+- **Lakeside Urban Center**: B3 (1,154 sf) is from $2,171.
+- **Cortland at Castle Hills**: 2BR totals are from $2,185.
+- **Valor at the Realm**: plans of 1,100 sf or more are from $2,140.
+- **Legacy Village / Acqua** (UDR, Plano): Aqua-Capri #7406 is 1,178 sf at $1,807. The official parking list covers covered, detached/private garage and reserved parking, with no community garage, and the aerial could not tie a deck to the building. Garage not confirmed.
+- **Modera Trailhead**: market 2BR is from $2,850, and the cheaper units are income-restricted.
+- **Byron Bay at the Sound** (Cypress Waters): the official site confirms garage parking but shows no official prices. HAR ($2,175+) and UMoveFree conflict.
+- **Maple at Med Center**: no unit prices are shown. Official finishes are espresso cabinets and black appliances (select), with income-guideline units.
+- **Arrive West End** (800 Ross): unit 3101 is 1,200 sf at $1,924 (18-month), with an official parking garage. Near-miss on quality: the kitchen photos show espresso cabinets and mixed black/stainless appliances, and they are virtually staged.
+- **The Canal** (UDR, 2061 Wittington Pl, Farmers Branch): B2J #0325 is 1,197 sf at $1,951 base (13-month, Dec 9). The official parking table lists "Parking Lot $40/month (Required)" plus $70/mo technology rent, which brings it to about $2,061 before the $50 reserved parking garage space. With the garage it is over the cap, and other mandatory fees are unverified.
+- **Jada Legacy Central**: B2/B3 show no price or availability, and B1 is under 1,100 sf.
+- **Luxia Preston**: B2 total is $2,154+.
+- **Savoye / Vitruvian West**: already on the budget layer, so not duplicated.
+
+### Gyms and supplement stores
+No gym or supplement store was added this pass.
+- **Muscle Temple Lifting Club** (Irving): the official site gives 24/7 member access and staffed hours, but lists no address or equipment. The only equipment list (Mammoth Strength) is a templated list identical to other gyms, so it is not evidence.
+- **Strength Society** (13500 Midway Rd #100, Farmers Branch): the official site returned errors and timeouts today, so its operating status and equipment could not be verified from an official page. The Mammoth listing is the same templated equipment list. Re-check later.
+- **JD Iron Gym** (Carrollton): only third-party directories. No official page or equipment evidence.
+- **BMF Uptown** (2626 Howell St, opening Nov 14, 2026): a coached class studio, not an open gym, and its equipment was not documented.
+- **Supplement stores**: searches in Irving/Las Colinas/Valley Ranch, Carrollton, Addison, Coppell, Plano/Frisco and Uptown turned up only chains or already-mapped independents (HercSupps, Alpha Fuel, Fit Core, Bemoxie, Ultimate Sports Nutrition). The Nutrishop Uptown/Plano listings are no longer in Nutrishop's current Texas directory.
+
+### Notes
+- Dedup: neither added property was already in L2, APT, TH, THG or budget. Entry counts went from L2 44 → 46. Gyms (95) and supplement stores (63) are unchanged.
+- No property, gym or store contact, applications, tours or payments from this pass.
+
 ## 2026-11-13 night (America/Chicago) — Radius Turtle Creek area
 
 Added Radius Turtle Creek at your request, then swept Turtle Creek, Oak Lawn, Cedar Springs, the Uptown edge, and Lemmon for 2BR communities priced within about ±$150 of Radius’s lowest advertised 2BR ($2,182, so roughly $2,032–$2,332). Parking was listed on cards when a source stated it, but it was not used as a filter for this pass.
