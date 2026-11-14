@@ -1,5 +1,31 @@
 # L2 listings changelog
 
+## 2026-11-13 night (America/Chicago) — Greenville-to-635 ZIP sweep, Belclaire added
+
+Continued the broader ZIP sweep of the Greenville Ave corridor from Ross to I-635 (75206, 75214, 75231, 75238, 75243, 75225, 75230) and the remaining requested areas (75204, 75246, 75218, 75228). Apartments.com search pages returned 403 and Apartment List ZIP pages did not paginate in the scraper, so this pass used official sites plus Apartment List neighborhood pages, RentCafe, HAR, Realtor.com, and UMoveFree. Apartments still needed a visible community parking garage; townhomes could pass with a private or attached garage. Pre-1990 low-quality product was not added even when a private garage existed.
+
+### Added (1)
+1. **Belclaire** — 5600 SMU Boulevard, Dallas 75206 (built 2012; about 416 units)  
+   - Realtor.com 2BR B1 871 sf from $1,715 (official floor-plan page did not display unit rents in the scraped view). Official quartz counters (color not confirmed).  
+   - Parking type: parking garage (visually confirmed on Esri aerial; official site describes a multi-level / two-level parking garage).  
+   - Sources: [official site](https://www.belclaireluxuryliving.com/), [floor plans](https://www.belclaireluxuryliving.com/apartments/tx/dallas/floor-plans).  
+   - Commute: ~17 min est. from 9.7 mi straight-line. About 3.0 mi from Gatsby on Ross.
+
+### Reviewed / not added (highlights)
+- **The Callie** (8025 Forest Ln, 75243, built 2016) — official 2BR Villa from $1,677 and Stack 2/2.5 townhome-style from $2,098, quartz counters. Official parking is one space per leaseholder plus leasable garages or covered spots, not a community parking garage. Not added.
+- **District at Greenville** (11911 Greenville Ave, 75243, built 2009) — official 2BR from $1,446, but Esri aerial shows 3-story buildings with surface lots; official/HAR parking is carports and private detached garages, not a community structured garage.
+- **Shoreview Flats** (10151 Shoreview Rd, 75238, built 2020) — official enclosed resident garage, visually a wrap/podium mid-rise, but official 2BR totals start at $2,128. Not added (over cap).
+- **Lakewood Flats** (7425 La Vista, 75214, 2012–13) — official townhomes with attached garages start about $2,769, over cap. Apartment 2BRs may be under the cap but official parking is carports plus attached/detached garages, not a community structured garage.
+- **Chimney Hill** (9637 Forest Ln, 75243) — garden buildings with surface lots; no community garage.
+- **5609 SMU Blvd (Shelby condos)** — individual condo 2/2 listings about $1,900 with an attached garage on some units, immediately next to Belclaire. Not added as a separate community pin.
+- **Halston** (8850 Ferguson, 75228, 1987) — surface/covered parking, pre-1990; a directory “garage” note was not official. Not added.
+- **L2 Uptown** (2828 Lemmon, 75204) — official garage, but official 2BR from about $2,765. **Renaissance at Preston Hollow** (75225) — garage, 2BR from about $2,211. Both over cap.
+- **Highlands Creek**, **The Trellis**, **Paxton**, and the Bellmar / Markville garden cluster — under cap but surface, carport, or covered lots only.
+
+### Notes
+- Working inventory and Esri aerials were kept as internal working files, not published on the map.
+- No property contact, applications, or payments from this pass.
+
 ## 2026-11-13 night (America/Chicago) — Greenville corridor to I-635, first adds
 
 Started a broader ZIP sweep of the full Greenville Ave corridor from Ross Ave north to I-635 (Lower and Upper Greenville, Lovers, Skillman, Northwest Hwy, Lake Highlands west, Walnut Hill, Royal, and Forest near Greenville), covering 75206, 75214, 75231, 75238, 75243, 75225, and 75230, plus the earlier Ross / White Rock / Midtown ZIPs. Same rules: 2+ bedrooms, under $2,100, apartments only with a community parking garage, townhomes with a private or attached garage, visual check on Esri aerials (Google Maps Static API 403). This section records the first two corridor properties that cleared the filter; the inventory is still being expanded.
