@@ -1,5 +1,24 @@
 # L2 listings changelog
 
+## 2026-11-14 (America/Chicago) — The Canal
+
+Added **The Canal** (UDR) at 2061 Wittington Place, Farmers Branch 75234, at your request. This morning’s daily pass skipped it only because a garage stall pushed the 2BR over the old $2,100 cap. The apartment cap is now $2,200 all-in; it is added even though a detached garage lands at/slightly over that cap.
+
+1. **The Canal** — 2061 Wittington Place, Farmers Branch 75234 (built 2019; about 638 units / 4 stories)
+   - Official 2BR starting rent $1,911 (advertised/base, Nov 14). Official estimated monthly charges: valet trash $40, technology $70, 2BR package lockers $15, pest $1, plus parking lot $40 ($166; about $2,077 all-in with lot parking).
+   - Official parking: reserved parking garage $50/mo, detached garage $165/mo, reserved detached $170/mo. If a garage stall replaces the $40 lot fee, starting 2BR all-in is about $2,087 with reserved parking garage, or about $2,202 with a detached garage. If the lot fee still applies with a garage, add $40. Confirm with leasing which parking charge applies.
+   - Official special: $1,850 off January’s rent if you move in by Nov 17, 2026, 12-month term, select apartments.
+   - Official pricing page updated 5:30 PM CT Nov 14; individual unit rows did not display in the static fetch. A Nov 13 directory listing showed 2BR plans from 980–1,338 sf, from $1,911 (B2C, 1,027 sf, Dec 15) through $2,176 (B2M, 1,338 sf, Nov 28). Confirm current unit availability with leasing.
+   - Official granite counters in white, grey, or espresso finish packages (color depends on the package). Stainless appliances, 42-inch cabinetry, wood plank flooring.
+   - Official parking garage plus attached/detached garages; parking lot $40.
+   - Pin: 32.917259, -96.909232 (published community coordinates at 2061 Wittington Pl; a Nominatim hit at this address is a neighboring storage listing and was not used). Commute ~6 min est. from 3.7 mi straight-line.
+   - Photo: official courtyard/clubhouse exterior from the UDR site, not a specific unit; [photos and tours](https://www.udr.com/dallas-apartments/farmers-branch/the-canal/photos-and-tours/).
+   - Sources: [official site](https://www.udr.com/dallas-apartments/farmers-branch/the-canal/), [apartments and pricing](https://www.udr.com/dallas-apartments/farmers-branch/the-canal/apartments-pricing/), [official expenses sheet](https://www.udr.com/generatepdf/apartmentexpenses?pid=101), [Realtor.com (year built 2019)](https://www.realtor.com/rentals/details/2061-Wittington-Pl_Farmers-Branch_TX_75234_M71690-54062).
+
+### Notes
+- Official address is Farmers Branch, near Las Colinas / Irving. No property contact, applications, or payments from this pass.
+- Public cards use only the approved assistance-animal line.
+
 ## 2026-11-14 (America/Chicago) — Legacy West area, Saturday tour pass
 
 Added Legacy-area 2BR matches at or under the $2,200 apartment cap after you said you would not pay over $2,200 for an apartment (townhomes may go higher). Parking is noted from listings but was not used as a filter. Tour hours below are for Saturday, Nov 14, 2026.

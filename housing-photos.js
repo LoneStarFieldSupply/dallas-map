@@ -760,5 +760,16 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-14",
     "linkType": "website"
   }
+,
+  "L2|The Canal": {
+    "src": "https://www.udr.com/globalassets/communities/the-canal/images/thecanal_2023_bdg-07_s2s.jpg",
+    "alt": "The Canal courtyard and brick clubhouse exterior in Farmers Branch",
+    "kind": "exterior",
+    "caption": "Official community courtyard and clubhouse, not a specific unit",
+    "gallery": "https://www.udr.com/dallas-apartments/farmers-branch/the-canal/photos-and-tours/",
+    "credit": "The Canal / UDR",
+    "checked": "2026-11-14",
+    "linkType": "gallery"
+  }
 
 };
