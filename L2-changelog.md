@@ -1,5 +1,54 @@
 # L2 listings changelog
 
+## 2026-11-19 (America/Chicago) — daily update
+
+First daily pass since Nov 14 (the Nov 15–18 runs failed on a usage outage), so anything that appeared after The Canal commit was in scope. Swept the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas / Cypress Waters and Grapevine for apartments and townhomes, gyms, and independent supplement stores. Housing rules: 2BR, at least 1,100 sf, actual unit rows (not "starting at") with a $2,100 baseline and the $2,200 hard cap for apartments, and a community parking garage (or a private/attached garage for a townhome). Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs and 2403 N Washington #337. One housing card was added. No gym or supplement store was added. Nothing already on the map was removed.
+
+### Added (orange L)
+1. **Gateway East at the Arts District** — 910 Texas Street, Dallas 75204 (Bryan Place, between Deep Ellum, the Arts District and the Ross Ave corridor; built 1999, about 419–420 units in 15 four-story brick buildings)
+   - Official available-units page, Nov 19 (Total Monthly Leasing Price = base rent plus all fixed mandatory monthly fees, about $153.50/mo; low end of each row on the 16-month term):
+     - The Live Oak with Garage, 2/2, 1,139 sf, private attached garage: **#2321 $1,853.50 total (base $1,700), available Jan 3, 2027**; #1921 $2,003.50 (base $1,850), available Jan 2, 2027; #1721 $1,857.50 (Dec 17); #1824 $1,853.50 (Dec 28).
+     - The Pearl, 2/2, 1,152 sf: #0218 $1,938.50, available Jan 11, 2027; #0244 $1,790.50 (Dec 23).
+     - The Ross, 2/2, 1,189 sf: #2434 and #1734 $1,814.50 (Dec 4 / Dec 10).
+   - January availability is confirmed on the official page for #2321, #1921 and #0218. No move-in special was listed on the pages checked. RentCafe showed the same plan prices; brightplace's $1,850 for #1921 is base rent, not the total.
+   - Parking type: community parking garage. HAR lists a community parking garage, and a multi-level deck wrapped by the buildings next to the pool is visually confirmed on the Esri aerial at the address point. The "with Garage" plans add a private attached garage (official); HAR also lists private detached garages at $125/mo.
+   - Quality: official granite, stainless, under-cabinet lighting, farmhouse sinks, full-size W/D, 9-ft ceilings with crown molding; fireplaces, islands and loft/townhouse-style plans in select homes. The current official photo set shows white shaker cabinets, light granite, tile backsplash, plank floors and tiled tub/shower surrounds in brick buildings that look well kept.
+   - Reviews (noted on the card): brightplace 3.7/5 (200+ reviews; location and amenities strongest; mixed notes on hallway upkeep, maintenance follow-through, gate/garage access and noise). RentCafe 4.0 (5 reviews).
+   - Pets (RentCafe property policy): all dog breeds, ages and sizes; pet interview; $400 fee and $20/mo per pet; 2-pet limit. Assistance-animal accommodations are handled separately.
+   - Walk: Walk Score 77 / Transit 79 / Bike 61 as shown on the RentCafe listing. On-site fitness center per HAR and the official photos.
+   - Pin: Esri PointAddress for 910 Texas St, 32.7912327, -96.7909048. Esri reverse-geocodes it to 910 Texas St (#235 subaddress), and Nominatim reverse-geocodes it to OSM apartments building way/464129281, house number 910.
+   - Commute: ~17 min est. from 10.0 mi straight-line (≈1.72 min per straight-line mile, the same ratio as the Nov 14 cards). Not a live driving time.
+   - Photo: official community exterior from the property's RentCafe media set, not a specific unit.
+   - Sources: [official available units](https://www.gatewayeastartsdistrict.com/availableunits), [official floor plans](https://www.gatewayeastartsdistrict.com/floorplans), [HAR](https://www.har.com/gateway-east-at-arts-district/apartment_9483A), [RentCafe](https://www.rentcafe.com/apartments/tx/dallas/gateway-east-at-the-arts-district/default.aspx), [brightplace #1921](https://www.brightplace.ai/property/tx/dallas/gateway-east-at-the-arts-district/units/d4b0e79b-e347-4a7e-ae0d-2d4618ce6495). Apartments.com timed out from both fetch paths today.
+   - Reason: a sub-$2,100 total 1,139 sf 2BR with its own attached garage plus a confirmed community garage, January move-ins on the official page, current renovated finishes, and a Ross Ave / Arts District location.
+
+### Checked and not added (housing)
+- **The District at Cypress Waters** (3211 Scotch Creek Rd): Parson's Green TH-B1 townhome, 2/2.5, 1,263 sf, $2,135, is waitlist only. Other 2BR/townhome rows are $2,259–$2,656.
+- **Bleecker Street at The Sound** (Cypress Waters): official site has a parking garage, but 2BR listings start around $2,314. **Sage Hill at Cypress Waters**: 2BR plans from $2,420 on HAR.
+- **Monterra Las Colinas**: 2BR units $2,218–$2,459 (brightplace, Nov 12). **Lakeside Urban Center**: B3 1,154 sf from $2,171 base on Apartments.com, before mandatory fees. Same result as Nov 14.
+- **4110 Fairmount** (Oak Lawn): B1 is 1,099 sf, just under the size floor. B2 1,161 sf is $2,228.
+- **Lantower Midtown**: 2BR $2,073–$2,516 base plus about $274/mo in listed fees (the $50 garage fee is included in that). #428 alone is $2,441.
+- **Mirasol Park Lane**: 2BR $2,289–$2,584 plus $158/mo in mandatory fees.
+- **Trailwinds Grapevine**: B2 #05-307 is $2,140 plus about $237/mo in listed fees. Over the cap. Garage type is not documented as a community garage.
+- **Windsor Lakeyard District** (The Colony): B1 is 1,093 sf, and parking is detached garages, not a community garage. **Terra** (The Colony): 2BR from $2,180, with tuck-under garages only.
+- **Halcyon / Platinum Castle Hills** (Lewisville): 1,165 sf rows from $1,766 base, but parking is attached/detached garages and carports, with no community garage.
+- **Cortland Galleria**: brightplace shows a 2BR at $2,200 for Jan 9, already at the cap before any mandatory fees. Not verified on the official site. **Cortland at Castle Hills**: 2BR totals $2,191–$2,275 (already rejected Nov 14).
+- **Landmark on Lovers** and **MAA Katy Trail**: 2BR January units are $2,257–$2,950.
+- **Cityplace Heights** (B2 1,189 sf from $1,760, one month free through Dec 15) and **Vitruvian West** (B2G-III 1,129 sf, Jan units) are already on the map (L2 / budget layer), so they were not duplicated.
+- HAR Irving rental search: older Las Brisas / Valley Ranch condos (1981–1985) were left off on quality. 4236 Cuesta and 2625 Encina #4 are already on the garage-townhome layer.
+
+### Gyms and supplement stores
+No gym or supplement store was added this pass.
+- **Absolute Recomp Las Colinas** (2000 Market Pl Blvd Suite 150, Irving): the official page still shows it open and staffed 24/7 with a strength floor and saunas. It is still unpinned because no geocoder or OSM feature resolves to 2000. Nominatim interpolates onto the Market Place Blvd centerline, its reverse geocode is 2010 (OSM way/393782436), and Esri returns only the street.
+- **Strength Society** (Farmers Branch): the official site (strengthsocietydtx.com) returned HTTP 500/404 and a hostname-mismatched certificate today. Equipment and status are still not verifiable from an official page.
+- **OAKFIT** (Addison) is a coached training business, not an open gym. **LiftHER** (Inwood Village) is a women-only class studio. **Trophy Fitness Uptown** is a general multi-location club, with no evidence it beats the mapped strength gyms.
+- **Nutritec Sport Supplements** (11206 S Pipeline Rd, Euless): directory listings only. There is no official page and no current pre-workout inventory, so it was not added.
+- No new independent supplement store with a current multi-brand pre-workout catalog turned up in Irving, Coppell, Grapevine/Euless, Carrollton, Farmers Branch, Richardson, Garland, Addison, Plano or Dallas. The searches only returned already-mapped shops (Alpha Fuel, HercSupps, Bemoxie, 5 Star, Luxx, Ultimate Sports Nutrition) or chains (GNC, Vitamin Shoppe, Total Nutrition).
+
+### Notes
+- Dedup: Gateway East / 910 Texas St was not in L2, APT, TH, THG, budget or Grapevine. Counts: L2 54 → 55. Gyms (95) and supplement stores (63) are unchanged.
+- No property, gym or store contact, applications, tours, memberships or payments from this pass.
+
 ## 2026-11-14 (America/Chicago) — The Canal
 
 Added **The Canal** (UDR) at 2061 Wittington Place, Farmers Branch 75234, at your request. This morning’s daily pass skipped it only because a garage stall pushed the 2BR over the old $2,100 cap. The apartment cap is now $2,200 all-in; it is added even though a detached garage lands at/slightly over that cap.

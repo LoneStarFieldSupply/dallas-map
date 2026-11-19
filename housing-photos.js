@@ -771,5 +771,17 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-14",
     "linkType": "gallery"
   }
+,
+  "L2|Gateway East at the Arts District": {
+    "src": "https://cdngeneral.rentcafe.com/dmslivecafe/2/55533/910-texas-street-dallas-tx-75204-High-Res-2.jpg?width=900&quality=80",
+    "alt": "Gateway East at the Arts District four-story brick apartment building on Texas Street",
+    "kind": "exterior",
+    "caption": "Official community exterior, not a specific unit",
+    "gallery": "https://www.gatewayeastartsdistrict.com/photogallery",
+    "credit": "Gateway East at the Arts District",
+    "checked": "2026-11-19",
+    "linkType": "gallery",
+    "note": "Photo is from the property's RentCafe media set (same property ID as the official site). Interior photos in that set show white shaker cabinets, granite and plank floors; none is tied to a specific available unit."
+  }
 
 };
