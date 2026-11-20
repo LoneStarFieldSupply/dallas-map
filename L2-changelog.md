@@ -1,5 +1,41 @@
 # L2 listings changelog
 
+## 2026-11-20 (America/Chicago) — daily update
+
+Daily pass one day after the Nov 19 full sweep. I looked only for new listings, units and businesses, and did not redo the Nov 19 rejections. Scope was the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas (including the Mandalay Canal) and nearby areas. Housing rules: 2BR, at least 1,100 sf, actual unit rows, a $2,100 baseline and the $2,200 all-in hard cap for apartments, and a community parking garage (or a private/attached garage for a townhome). Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs and 2403 N Washington #337. One housing card and one gym were added. No supplement store was added. Nothing already on the map was removed.
+
+### Added (orange L)
+1. **Oak & Ellum**: 2627 Live Oak St, Dallas 75204 (Deep Ellum / Cityplace edge; built 2015; 424 units; Greystar)
+   - Official B3 floor plan page, Nov 20: 2/2, 1,154 sf. **#13052 (Bldg 1, floor 3): $2,144.56 Total Monthly Leasing Price (base $2,001 on the 18-month term), available Dec 17, 2026.** It is the only listed 2BR at or above 1,100 sf. The other 2BR plans are 1,056–1,079 sf.
+   - Fees: the official fee list's fixed mandatory monthly items add up to the $143.56 difference (internet $75, package $23, doorstep trash $25, trash admin $3, amenity $10, pest $5 + $2.56). Usage-based utilities and renters insurance are extra.
+   - January availability is not confirmed (the listed date is Dec 17). Special: the official banner offers up to six weeks of free base rent, with a minimum term and restrictions. Zillow says it requires leasing within 48 hours of the tour. The net rent is not computed; the card uses the face total, which is above the $2,100 baseline and under the $2,200 cap.
+   - Parking type: community parking garage. Greystar's official page lists a multi-level parking garage, and the Esri aerial at the address point shows a parking-deck roof wrapped by the building. Official terms: 1 open space per leaseholder, a second space $50/mo, reserved spaces $15–$60/mo optional.
+   - Quality: official granite, espresso wood cabinetry, stainless appliances, plank floors, full-size W/D, walk-in closets. The current official gallery shows granite with subway-tile backsplash and a well-kept pool courtyard. 24-hour fitness center on site (official). Reviews were not verified today.
+   - Pets: $500 fee, $25/mo per pet (official). The breed list on Zillow does not apply to qualified assistance animals.
+   - Walk: Walk Score 90 / Transit 84 / Bike 64 as shown on Zillow.
+   - Pin: Esri PointAddress for 2627 Live Oak St, 32.788524, -96.7904259. Nominatim matches OSM building relation 8701014, "Oak And Ellum", house number 2627.
+   - Commute: ~17 min est. from 10.1 mi straight-line (≈1.72 min per straight-line mile). Not a live driving time.
+   - Photo: official gallery kitchen photo, not unit #13052.
+   - Sources: [official B3](https://oakandellum.com/floorplans/b3/), [official floor plans and fees](https://oakandellum.com/floorplans/), [Greystar](https://www.greystar.com/oak-&-ellum-dallas-tx/p_12969), [HAR](https://www.har.com/oak--and--ellum/apartment_5317A) (1,154 sf plan $2,125 base), [Zillow](https://www.zillow.com/apartments/dallas-tx/oak-and-ellum/Cn9K5G/). Apartments.com returned HTTP 403.
+   - Reason: a 1,154 sf 2BR under the $2,200 all-in cap with a confirmed community garage, current granite and plank-floor finishes, Walk Score 90, and a location between Deep Ellum, Uptown and the Ross Ave corridor.
+
+### Checked and not added (housing)
+- **801 LasCo** (801 Lake Carolyn Pkwy, Irving): official unit feed shows B3ER #2066, 1,189 sf, at $2,181 base (Jan 15, 2027). The official fee sheet adds $50/mo of fixed fees ($10 amenity, $6 pest, $1 stormwater, $30 doorstep trash, $3 trash admin), for about $2,231 total, which is over the cap. B2D #3018 (1,175 sf) is $2,381.
+- **Indie Deep Ellum** (2900 Canton St): B3 #137, 1,109 sf, $2,045 (Jan 6, 2027). Equity's own cost breakdown gives an estimated $2,190/mo before parking, and garage parking is a $125/mo add-on, so the total is about $2,315.
+- **The Flynn at Live Oak**: 2BR totals from $2,494.56.
+- **Banks Las Colinas** (900 Lake Carolyn): 2BR plans at 1,117 sf or more show "call for pricing" or $2,990 and up.
+
+### Gyms and supplement stores
+1. **Absolute Recomp Las Colinas** was added to the local-gym layer: 2000 Market Pl Blvd Suite 150, Irving 75063.
+   - The pin blocker from Nov 10–19 is now resolved. The official location finder gives 32.9214088, -96.9725059, and Esri reverse-geocodes that point to 2000 Market Place Blvd (PointAddress). Esri forward-geocodes the address to a PointAddress about 10 m away, and Esri's Absolute Recomp POI is about 2 m away. Nominatim still names the building 2010 (OSM way/393782436).
+   - Official page: open and staffed 24/7/365, strength floor, treadmills, stairs and bikes, posing room, locker rooms with private showers, men's and women's saunas. Not a claimed new opening.
+- **Nutrition Nation** (2810 E Trinity Mills Rd #131, Carrollton): directory and AI-summary pages only. There is no official site or current pre-workout catalog, and the directory text mentions SARMs. Not added.
+- The gym search only returned already-mapped or already-rejected gyms (BMF Uptown, Muscle Temple).
+
+### Notes
+- Dedup: Oak & Ellum / 2627 Live Oak St and Absolute Recomp Las Colinas / 2000 Market Pl Blvd were not on any layer (L2, APT, TH, THG, budget, Grapevine, gyms, supplements). Counts: L2 55 → 56. Gyms 95 → 96. Supplement stores unchanged at 63.
+- No property, gym or store contact, applications, tours, memberships or payments from this pass.
+
 ## 2026-11-19 (America/Chicago) — daily update
 
 First daily pass since Nov 14 (the Nov 15–18 runs failed on a usage outage), so anything that appeared after The Canal commit was in scope. Swept the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas / Cypress Waters and Grapevine for apartments and townhomes, gyms, and independent supplement stores. Housing rules: 2BR, at least 1,100 sf, actual unit rows (not "starting at") with a $2,100 baseline and the $2,200 hard cap for apartments, and a community parking garage (or a private/attached garage for a townhome). Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs and 2403 N Washington #337. One housing card was added. No gym or supplement store was added. Nothing already on the map was removed.

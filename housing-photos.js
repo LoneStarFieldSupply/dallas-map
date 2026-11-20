@@ -783,5 +783,17 @@ window.HOUSING_PHOTOS={
     "linkType": "gallery",
     "note": "Photo is from the property's RentCafe media set (same property ID as the official site). Interior photos in that set show white shaker cabinets, granite and plank floors; none is tied to a specific available unit."
   }
+,
+  "L2|Oak & Ellum": {
+    "src": "https://oakandellum.com/assets/images/cache/08N7sJouD7tGPmK7Fw6fZyL6DP0OR1meGLpo3CIi-bfa2d0be2ece81e7469772aefa0bb68d.jpg",
+    "alt": "Oak & Ellum apartment kitchen with granite counters, subway-tile backsplash and stainless appliances",
+    "kind": "community",
+    "caption": "Official interior photo from the property gallery, not unit #13052",
+    "gallery": "https://oakandellum.com/gallery/",
+    "credit": "Oak & Ellum / Greystar",
+    "checked": "2026-11-20",
+    "linkType": "gallery",
+    "note": "The gallery does not say which unit or floor plan this kitchen is from."
+  }
 
 };
