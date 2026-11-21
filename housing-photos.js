@@ -795,5 +795,17 @@ window.HOUSING_PHOTOS={
     "linkType": "gallery",
     "note": "The gallery does not say which unit or floor plan this kitchen is from."
   }
+,
+  "L2|Camden Design District": {
+    "src": "https://images.ctfassets.net/pg6xj64qk0kh/1JuHUV2Xo5TQ5B3UQWXLuH/4ff16569203275645afee16cb700eef3/camden-design-district-apartments-dallas-tx-two-bedroom-kitchen-with-built-in-desk.jpg?w=900",
+    "alt": "Camden Design District two-bedroom kitchen with dark granite, gray subway tile, stainless appliances and a built-in desk",
+    "kind": "community",
+    "caption": "Official two-bedroom kitchen photo, not unit #235",
+    "gallery": "https://www.camdenliving.com/apartments/dallas-tx/camden-design-district/media-gallery",
+    "credit": "Camden Design District / Camden Property Trust",
+    "checked": "2026-11-21",
+    "linkType": "gallery",
+    "note": "Camden labels this as a two-bedroom kitchen; it does not say which unit or floor plan it shows."
+  }
 
 };

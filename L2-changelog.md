@@ -1,5 +1,42 @@
 # L2 listings changelog
 
+## 2026-11-21 (America/Chicago) — daily update
+
+Daily pass one day after the Nov 20 update. I looked only for new listings, units and businesses, and did not redo earlier rejections. Scope was the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas and nearby areas. This pass also covered downtown Main Street lofts and the Design District, which earlier passes had not reviewed. Housing rules: 2BR, at least 1,100 sf, actual unit rows, a $2,100 baseline and the $2,200 all-in hard cap for apartments, and a community parking garage (or a private/attached garage for a townhome, with townhomes listed only up to about $2,400). Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs and 2403 N Washington #337. One housing card was added. No gym or supplement store was added. Nothing already on the map was removed.
+
+### Added (orange L)
+1. **Camden Design District**: 1551 Oak Lawn Ave, Dallas 75207 (Design District, near the Medical District and Victory Park; built 2009; 355 units per Yardi Matrix; Camden)
+   - Official available-apartments page, Nov 21. Camden's total monthly rent is base rent plus $124/mo of required monthly charges. The page does not itemize them; Camden's FAQ describes a technology package (WhiteSky internet) and front-door valet trash.
+     - **Kisabeth Large 2/2, 1,213 sf: #235 (floor 2) $2,183 total (base $2,059, 15-month term), available Jan 7, 2027.**
+     - Miller 2/2, 1,344 sf: #389 (floor 3) $2,153 total (base $2,029), available now. #286 is about $2,263 total (Jan 15), which is over the cap.
+     - Freesia (1,260 sf, $2,243), Vineyard (1,349 sf, $2,283) and Lucasso (1,469 sf, $2,353) totals are over the cap.
+   - January availability is confirmed on the official page for #235. No move-in special was shown for this community. Zillow shows 2BR base rent from $2,029, which matches.
+   - Parking type: community parking garage. Official: a 4-story parking garage open to residents first-come, first-served, with no listed charge; reserved spaces are an optional $15–$35 + tax per month. The Esri aerial at the address point shows a multi-level parking-deck roof wrapped by the apartment building. There are no attached garages.
+   - Quality: official black granite, quartz bath counters, tile backsplash, chestnut cabinetry, stainless appliances, built-in desks, and full-size W/D in every home (official FAQ). The Kisabeth Large plan has split bedrooms, two walk-in closets and a balcony. The current official 2BR kitchen photo shows dark granite, gray subway tile and a skyline glimpse. The finishes are 2009-era, not a fresh renovation. There is a 24/7 fitness studio on site with free weights, strength machines and spin bikes (official). ApartmentRatings: 4.0 (124 reviews).
+   - Pets: up to 3 per home with no weight limit, $500 fee and $25/mo per pet, and a restricted-breed list (official). ApartmentRatings' copy of the policy says these limits and fees do not apply to assistance animals.
+   - Walk: Walk Score 63 / Transit 52 / Bike 59 as shown on Zillow. Trinity Strand Trail is next to the community.
+   - Pin: Esri PointAddress for 1551 Oak Lawn Ave, 32.7957814, -96.8219682, which sits on the garage roof of the wrapped building in the aerial. Esri reverse-geocodes that point to a POI ("Decorative Center Dallas"), not the street address. Nominatim interpolates 1551 onto the Oak Lawn Ave frontage about 120 m east (OSM way/90990754). Camden's own page coordinates (32.7958865, -96.8239588) fall on the Trinity Strand Trail west of the building and were not used.
+   - Commute: ~14 min est. from 8.3 mi straight-line (≈1.72 min per straight-line mile). This is not a live driving time.
+   - Photo: official 2BR kitchen photo from Camden's media library, not unit #235.
+   - Sources: [official available apartments](https://www.camdenliving.com/apartments/dallas-tx/camden-design-district/available-apartments), [official #235](https://www.camdenliving.com/apartments/dallas-tx/camden-design-district/available-apartments/kisabeth-large-floor-plan?unit=235&floor=14), [official FAQs](https://www.camdenliving.com/apartments/dallas-tx/camden-design-district/faqs), [Zillow](https://www.zillow.com/apartments/dallas-tx/camden-design-district/5Xhsf3/), [ApartmentRatings](https://www.apartmentratings.com/tx/dallas/camden-design-district_214741077775207/), [Yardi Matrix](https://www.yardimatrix.com/property-types/multifamily/dallas-suburban/camden-design-district-1551-oak-lawn-avenue-tx-75207--46209/). Apartments.com and HAR were not reachable today (Apartments.com 403; the HAR fetch timed out).
+   - Reason: a 1,213 sf 2BR at $2,183 all-in that is available in January, with a free first-come community garage, in-unit W/D and a 4.0 review record. It is in the Design District, next to the Medical District area of the selected Maple District Lofts.
+
+### Checked and not added (housing)
+- **The Wilson** (1623 Main St, historic 1903 loft building, LyvWell/Brookfield): official SightMap, Nov 21: 2E #W-0206 is 1,447 sf at $1,988.78 total (now), and 2K #W-0808 is 1,577 sf at $2,068.78 (Dec 7). Garage parking is an extra $70–$175 per directories, which keeps it under the cap. Not added: the 2E plan's second bedroom has no exterior wall on the official floor plan, and in-unit W/D is not documented (the community lists on-site laundry rooms). RentCafe rates it 3.0 (parking 2.0, noise 2.0), with complaints about gates.
+- **The Continental** (1810 Commerce St, LyvWell/Brookfield): 2C #C-0502 is 1,262 sf at $1,872.27, and 2E #C-0722 is 1,326 sf, east view, at $1,962.27 (both now). The 2BR tandem garage is $175 per directories. Not added on upkeep: RentCafe 3.0 (parking 1.5, amenities 2.0) with reviews of amenities closed for months, broken garage gates and elevators. About 40 cars were broken into in the garage in April 2024 (CBS Texas).
+- **The Element** (1800 Main St, LyvWell/Brookfield): 2E #E-0560 is 1,270 sf at $2,001.25, plus parking of $100–$175. Not added: brightplace rates building quality 1.5 and maintenance 1.5, with reports of elevator outages, pests and closed amenities. ApartmentRatings has it at 2.9.
+- **Modera Trinity** (2350 N Beckley): 2BR from $2,628.
+- **4323 Dickason Ave #2** (Oak Lawn townhome, 2-car attached garage): $2,995, over the ~$2,400 townhome window.
+- Townhome leads from directory searches: **325 Metropolitan Dr, Plano** has no active rental on HAR, which shows it as a 3BR on the appraisal record. **14563 Juliard Ln, Addison** and **1131 Bethel School Ct, Coppell** are closed/off market.
+
+### Gyms and supplement stores
+- **EōS Fitness Plano (6101 K Ave, 75074)** was not added. It is a big-box chain, and the official page title still says "Coming Soon" while listing 24/7 hours. There is no evidence it beats the mapped strength gyms.
+- The supplement search returned only already-mapped independents (HercSupps, Bemoxie, Alpha Fuel) or Total Nutrition.
+
+### Notes
+- Dedup: Camden Design District / 1551 Oak Lawn Ave was not on any layer (L2, APT, TH, THG, budget, Grapevine). Counts: L2 56 → 57. Gyms (96) and supplement stores (63) are unchanged.
+- No property, gym or store contact, applications, tours, memberships or payments from this pass.
+
 ## 2026-11-20 (America/Chicago) — daily update
 
 Daily pass one day after the Nov 19 full sweep. I looked only for new listings, units and businesses, and did not redo the Nov 19 rejections. Scope was the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas (including the Mandalay Canal) and nearby areas. Housing rules: 2BR, at least 1,100 sf, actual unit rows, a $2,100 baseline and the $2,200 all-in hard cap for apartments, and a community parking garage (or a private/attached garage for a townhome). Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs and 2403 N Washington #337. One housing card and one gym were added. No supplement store was added. Nothing already on the map was removed.
