@@ -806,6 +806,21 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-21",
     "linkType": "gallery",
     "note": "Camden labels this as a two-bedroom kitchen; it does not say which unit or floor plan it shows."
+  },
+  "L2|4703 Columbia Ave #104": {
+    "gallery": "https://www.har.com/homedetail/4703-columbia-ave-104-dallas-tx-75226/15071538",
+    "credit": "HAR.com (NTREIS listing, MLS 21396897)",
+    "checked": "2026-11-23",
+    "linkType": "listing",
+    "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the HAR listing (17 photos)."
+  },
+  "L2|130 Barrington Ln": {
+    "gallery": "https://www.estately.com/listings/info/130-barrington-lane-lewisville-tx-75067",
+    "credit": "Estately (NTREIS listing, MLS 21414644)",
+    "checked": "2026-11-23",
+    "linkType": "listing",
+    "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the Estately listing (26 photos)."
   }
+
 
 };
