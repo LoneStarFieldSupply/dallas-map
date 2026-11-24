@@ -820,6 +820,20 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-23",
     "linkType": "listing",
     "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the Estately listing (26 photos)."
+  },
+  "L2|8729 Manhattan Ave": {
+    "gallery": "https://www.har.com/homedetail/8729-manhattan-ave-plano-tx-75024/1145688",
+    "credit": "HAR.com (NTREIS listing, MLS 21440417)",
+    "checked": "2026-11-24",
+    "linkType": "listing",
+    "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the HAR listing (26 photos)."
+  },
+  "L2|2525 Champagne Dr": {
+    "gallery": "https://www.estately.com/listings/info/2525-champagne-drive-irving-tx-75038--1",
+    "credit": "Estately (NTREIS listing, MLS 21416132)",
+    "checked": "2026-11-24",
+    "linkType": "listing",
+    "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the Estately listing (14 photos)."
   }
 
 
