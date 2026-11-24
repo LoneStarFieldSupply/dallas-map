@@ -35,16 +35,6 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-07",
     "linkType": "website"
   },
-  "L2|Link at Plano": {
-    "src": "https://linkatplano.com/assets/images/cache/ZgAhY9JxU1IANHama2bkiXGhd0XTqVC8lhedJ69v-c880fb1ff166873f62c2ce9cd44d661f.jpg",
-    "alt": "Link at Plano model kitchen with herringbone-style flooring",
-    "kind": "model",
-    "caption": "Model photo, not a specific available unit",
-    "gallery": "https://linkatplano.com/gallery/",
-    "credit": "Link at Plano",
-    "checked": "2026-11-07",
-    "linkType": "gallery"
-  },
   "L2|Flatiron District at Austin Ranch": {
     "src": "https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_420,w_740/v1740690816/g5/g5-c-inrtkls3-lincoln-property-company/g5-cl-1om0s6v4ea-lincoln-property-company-lpc-resident-services-the-colony-tx/uploads/shoootin-photo-8_fkd5aq.jpg",
     "alt": "Flatiron District at Austin Ranch model kitchen and living area",
@@ -71,36 +61,6 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable photo. The mapped source is an aggregator listing, not an official gallery.",
     "checked": "2026-11-07",
     "linkType": "listing"
-  },
-  "L2|Legacy North": {
-    "src": "https://images.myrazz.com/uc-image/cc6223ef-8b05-4a99-b5ed-d55234935b59/-/format/webp/-/quality/lighter/-/resize/x800/-/scale_crop/640x400/center/legacy_north_-_aurora_-_kitchen.webp",
-    "alt": "Model kitchen at Legacy North in Plano",
-    "kind": "model",
-    "caption": "Model photo, not a specific available unit",
-    "gallery": "https://www.legacynorthapts.com/",
-    "credit": "Legacy North",
-    "checked": "2026-11-07",
-    "linkType": "website"
-  },
-  "L2|MAA Legacy": {
-    "src": "https://edge.sitecorecloud.io/midamericaa7861-test603e-prod9e24-2f78/media/project/maac/maac_com/texas/dallas/properties/maa-legacy/property-hero/245700---maa-legacy---kitchen-1-main.jpg?h=600&iar=0&w=960&q=70",
-    "alt": "Model kitchen at MAA Legacy",
-    "kind": "model",
-    "caption": "Model photo, not a specific available unit",
-    "gallery": "https://www.maac.com/texas/dallas/maa-legacy/",
-    "credit": "MAA Legacy",
-    "checked": "2026-11-07",
-    "linkType": "website"
-  },
-  "L2|Windsor Metro West (borderline)": {
-    "src": "https://cdn.rentcafe.com/dmslivecafe/2/70135/2ModelHomes_P1_MetroWest.jpg",
-    "alt": "Model kitchen at Windsor Metro West",
-    "kind": "model",
-    "caption": "Model photo, not a specific available unit",
-    "gallery": "https://www.windsorcommunities.com/properties/windsor-metro-west/",
-    "credit": "Windsor Metro West",
-    "checked": "2026-11-07",
-    "linkType": "website"
   },
   "L2|Cortland One Twenty One": {
     "src": "https://d1lmwj1mqgoj6.cloudfront.net/misc/55039136dccb99ee.jpg",
@@ -410,22 +370,6 @@ window.HOUSING_PHOTOS={
     "note": "HAR listing is linked. MLS photos are not republished.",
     "checked": "2026-11-07"
   },
-  "THG|4535 Woodsboro Ln": {
-    "note": "HAR listing is linked. MLS photos are not republished.",
-    "checked": "2026-11-07"
-  },
-  "THG|8745 Manhattan Ave": {
-    "note": "HAR listing is linked. MLS photos are not republished.",
-    "checked": "2026-11-07"
-  },
-  "THG|8609 Heather Ridge Dr": {
-    "note": "HAR listing is linked. MLS photos are not republished.",
-    "checked": "2026-11-07"
-  },
-  "THG|8734 Manhattan Ave": {
-    "note": "HAR listing is linked. MLS photos are not republished.",
-    "checked": "2026-11-07"
-  },
   "budget|4321 Cole Ave": {
     "note": "No safely reusable photo from this property's own site. Open the listing.",
     "checked": "2026-11-07"
@@ -631,8 +575,7 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-13",
     "linkType": "website"
-  }
-,
+  },
   "L2|Luxia Midtown Park": {
     "gallery": "https://www.luxiamidtownpark.com/",
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
@@ -644,8 +587,7 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-13",
     "linkType": "website"
-  }
-,
+  },
   "L2|Haven Lake Highlands": {
     "gallery": "https://www.havenlakehighlands.com/",
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
@@ -657,15 +599,13 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-13",
     "linkType": "website"
-  }
-,
+  },
   "L2|Belclaire": {
     "gallery": "https://www.belclaireluxuryliving.com/",
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-13",
     "linkType": "website"
-  }
-,
+  },
   "L2|Shoreview Flats": {
     "gallery": "https://shoreviewdallas.com/",
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
@@ -677,8 +617,7 @@ window.HOUSING_PHOTOS={
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-13",
     "linkType": "website"
-  }
-,
+  },
   "L2|Radius Turtle Creek": {
     "gallery": "https://www.radiusturtlecreek.com/dallas/radius-turtle-creek/photos/",
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official photo gallery.",
@@ -707,60 +646,12 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-14",
     "linkType": "gallery"
   },
-  "L2|Windsor Preston": {
-    "src": "https://cdn.rentcafe.com/dmslivecafe/2/70135/62ModelHomes_P498_WindsorPreston.jpg",
-    "alt": "Windsor Preston model kitchen with white cabinets, quartz counters and stainless appliances",
-    "kind": "model",
-    "caption": "Model photo, not a specific available unit",
-    "gallery": "https://www.windsorcommunities.com/properties/windsor-preston/gallery/",
-    "credit": "Windsor Preston",
-    "checked": "2026-11-14",
-    "linkType": "gallery"
-  }
-,
-  "L2|Cortland West Plano": {
-    "gallery": "https://cortland.com/apartments/cortland-west-plano/",
-    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
-    "checked": "2026-11-14",
-    "linkType": "website"
-  },
   "L2|Cortland Legacy": {
     "gallery": "https://cortland.com/apartments/cortland-legacy/",
     "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
     "checked": "2026-11-14",
     "linkType": "website"
   },
-  "L2|Legacy Village Apartment Homes": {
-    "gallery": "https://www.udr.com/dallas-apartments/plano/legacy-village-apartment-homes/",
-    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
-    "checked": "2026-11-14",
-    "linkType": "website"
-  },
-  "L2|Camden Legacy Park": {
-    "gallery": "https://www.camdenliving.com/apartments/plano-tx/camden-legacy-park",
-    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
-    "checked": "2026-11-14",
-    "linkType": "website"
-  },
-  "L2|Villas at Legacy": {
-    "gallery": "https://villasatlegacy-plano.com/",
-    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
-    "checked": "2026-11-14",
-    "linkType": "website"
-  },
-  "L2|Creekside at Legacy": {
-    "gallery": "https://www.creeksideatlegacy.com/",
-    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
-    "checked": "2026-11-14",
-    "linkType": "website"
-  },
-  "L2|Windsor West Plano": {
-    "gallery": "https://www.windsorcommunities.com/properties/windsor-west-plano/",
-    "note": "No safely reusable official photo URL was verified this pass. The mapped source is the official community website.",
-    "checked": "2026-11-14",
-    "linkType": "website"
-  }
-,
   "L2|The Canal": {
     "src": "https://www.udr.com/globalassets/communities/the-canal/images/thecanal_2023_bdg-07_s2s.jpg",
     "alt": "The Canal courtyard and brick clubhouse exterior in Farmers Branch",
@@ -770,8 +661,7 @@ window.HOUSING_PHOTOS={
     "credit": "The Canal / UDR",
     "checked": "2026-11-14",
     "linkType": "gallery"
-  }
-,
+  },
   "L2|Gateway East at the Arts District": {
     "src": "https://cdngeneral.rentcafe.com/dmslivecafe/2/55533/910-texas-street-dallas-tx-75204-High-Res-2.jpg?width=900&quality=80",
     "alt": "Gateway East at the Arts District four-story brick apartment building on Texas Street",
@@ -782,8 +672,7 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-19",
     "linkType": "gallery",
     "note": "Photo is from the property's RentCafe media set (same property ID as the official site). Interior photos in that set show white shaker cabinets, granite and plank floors; none is tied to a specific available unit."
-  }
-,
+  },
   "L2|Oak & Ellum": {
     "src": "https://oakandellum.com/assets/images/cache/08N7sJouD7tGPmK7Fw6fZyL6DP0OR1meGLpo3CIi-bfa2d0be2ece81e7469772aefa0bb68d.jpg",
     "alt": "Oak & Ellum apartment kitchen with granite counters, subway-tile backsplash and stainless appliances",
@@ -794,8 +683,7 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-20",
     "linkType": "gallery",
     "note": "The gallery does not say which unit or floor plan this kitchen is from."
-  }
-,
+  },
   "L2|Camden Design District": {
     "src": "https://images.ctfassets.net/pg6xj64qk0kh/1JuHUV2Xo5TQ5B3UQWXLuH/4ff16569203275645afee16cb700eef3/camden-design-district-apartments-dallas-tx-two-bedroom-kitchen-with-built-in-desk.jpg?w=900",
     "alt": "Camden Design District two-bedroom kitchen with dark granite, gray subway tile, stainless appliances and a built-in desk",
@@ -820,13 +708,6 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-23",
     "linkType": "listing",
     "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the Estately listing (26 photos)."
-  },
-  "L2|8729 Manhattan Ave": {
-    "gallery": "https://www.har.com/homedetail/8729-manhattan-ave-plano-tx-75024/1145688",
-    "credit": "HAR.com (NTREIS listing, MLS 21440417)",
-    "checked": "2026-11-24",
-    "linkType": "listing",
-    "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the HAR listing (26 photos)."
   },
   "L2|2525 Champagne Dr": {
     "gallery": "https://www.estately.com/listings/info/2525-champagne-drive-irving-tx-75038--1",

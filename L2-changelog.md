@@ -1,5 +1,31 @@
 # L2 listings changelog
 
+## 2026-11-24 (America/Chicago) — Plano housing removed
+
+Trentin said Plano is too far out. All housing listings located in Plano were removed from the map. Gyms, supplement stores, and other non-housing pins in Plano were left unchanged. **Plano is excluded from the housing search going forward** — do not add Plano apartments, condos, or townhomes. Other mapped areas are unchanged.
+
+Orange L (L2) is now **49** listings (was 61). The townhomes-with-garage layer (THG) is now **17** (was 21).
+
+### Removed (orange L, 12)
+1. **8729 Manhattan Ave** — 8729 Manhattan Ave, Plano 75024 (Hidden Creek Estates townhome; added 2026-11-24, commit bff7188)
+2. **Legacy North** — 5765 Bozeman Dr, Plano 75024
+3. **MAA Legacy** — 5741 Martin Rd, Plano 75024
+4. **Windsor Metro West (borderline)** — 8055 Windrose Ave, Plano 75024
+5. **Link at Plano** — 1045 15th Pl, Plano 75074
+6. **Windsor Preston** — 7950 Preston Road, Plano 75024
+7. **Cortland West Plano** — 8205 Towne Main Drive, Plano 75024
+8. **Legacy Village Apartment Homes** — 7001 Parkwood Boulevard, Plano 75024
+9. **Camden Legacy Park** — 6600 Preston Road, Plano 75024
+10. **Villas at Legacy** — 5301 West Spring Creek Parkway, Plano 75024
+11. **Creekside at Legacy** — 6300 Windcrest Drive, Plano 75024
+12. **Windsor West Plano** — 2100 Legacy Drive, Plano 75023
+
+### Removed (townhomes with garage / THG, 4)
+1. **4535 Woodsboro Ln** — 4535 Woodsboro Ln, Plano, TX 75024
+2. **8745 Manhattan Ave** — 8745 Manhattan Ave, Plano, TX 75024
+3. **8609 Heather Ridge Dr** — 8609 Heather Ridge Dr, Plano, TX 75024
+4. **8734 Manhattan Ave** — 8734 Manhattan Ave, Plano, TX 75024
+
 ## 2026-11-24 (America/Chicago) — daily update
 
 Daily pass one day after the Nov 23 update. I looked only for new listings, units and businesses, and did not redo earlier rejections. Scope was the mapped Dallas areas plus The Colony, Lewisville, Addison, Plano, Coppell, Las Colinas (including the Mandalay Canal / Lake Carolyn), Grapevine and nearby areas. This pass repeated the HAR single-unit rental sweep by ZIP code for 75204, 75206, 75214, 75219, 75226, 75201, 75039, 75067, 75019, 75056 and 75001, and added ZIP codes not covered on Nov 23: 75024 and 75093 (Plano), 75063 and 75038 (Irving, around Las Colinas) and 76051 (Grapevine). It also ran a new-construction/lease-up search and searched for gyms and supplement stores across the full scope. Housing rules: 2BR, at least 1,100 sf, a $2,100 baseline and the $2,200 all-in hard cap for apartments and condos (garage charges count), and a community parking garage, or a private/attached garage for a townhome, with townhomes listed only up to about $2,400. Quality was compared with Maple District Lofts, The Griffin, 4539 Cedar Springs and 2403 N Washington #337 using the full MLS photo sets. **Two townhome cards were added to the orange L layer. No gym or supplement store was added.** Nothing already on the map was removed or changed.
