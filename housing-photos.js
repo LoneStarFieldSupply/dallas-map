@@ -715,6 +715,28 @@ window.HOUSING_PHOTOS={
     "checked": "2026-11-24",
     "linkType": "listing",
     "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the Estately listing (14 photos)."
+  },
+  "L2|Echo": {
+    "src": "https://resource.rentcafe.com/image/upload/x_0,y_0,w_1200,h_800,c_crop/q_auto,f_auto,c_limit,w_690/s3/3/660836/echo5_1119.jpg",
+    "alt": "Echo apartment kitchen with dark cabinets, granite island, black appliances and stained-concrete floor",
+    "kind": "community",
+    "caption": "Official gallery kitchen photo, not unit #222",
+    "gallery": "https://www.echodallas.com/photogallery",
+    "credit": "Echo Apartments",
+    "checked": "2026-11-25",
+    "linkType": "gallery",
+    "note": "The gallery labels this 'Open Concept Kitchen with Island/Breakfast Bar' and does not say which unit or floor plan it shows. It matches the Signature package (black appliances)."
+  },
+  "L2|The Lucas": {
+    "src": "https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_700,w_1200/v1727805928/g5/g5-c-64e9wnoxw-the-pauls-corporation/g5-cl-1p7yr2tv8z-the-pauls-corporation-dallas-tx/uploads/10_3086_Kitchen_zvltdm.jpg",
+    "alt": "The Lucas apartment kitchen with espresso cabinets, granite island, stainless appliances and wood-look floors",
+    "kind": "community",
+    "caption": "Official gallery kitchen photo from unit 3086, not a listed unit",
+    "gallery": "https://www.thelucasapartments.com/apartments/tx/dallas/photo-gallery",
+    "credit": "The Lucas Apartments",
+    "checked": "2026-11-25",
+    "linkType": "gallery",
+    "note": "The image file name identifies unit 3086; its floor plan is not stated, and 3086 is not one of the listed available units."
   }
 
 
