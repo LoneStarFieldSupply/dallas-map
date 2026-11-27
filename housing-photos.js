@@ -716,6 +716,13 @@ window.HOUSING_PHOTOS={
     "linkType": "listing",
     "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the Estately listing (14 photos)."
   },
+  "L2|2080 Kelly Ave #108": {
+    "gallery": "https://www.estately.com/listings/info/2080-kelly-avenue-dallas-tx-75215--9",
+    "credit": "Estately (NTREIS listing, MLS 21403995)",
+    "checked": "2026-11-27",
+    "linkType": "listing",
+    "note": "No photo used: the only photos are MLS listing images, and there is no official property gallery for this single-unit rental. The link opens the Estately listing (16 photos)."
+  },
   "L2|Echo": {
     "src": "https://resource.rentcafe.com/image/upload/x_0,y_0,w_1200,h_800,c_crop/q_auto,f_auto,c_limit,w_690/s3/3/660836/echo5_1119.jpg",
     "alt": "Echo apartment kitchen with dark cabinets, granite island, black appliances and stained-concrete floor",
